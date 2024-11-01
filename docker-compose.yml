@@ -1,0 +1,16 @@
+version: '3.3'
+services:
+  pkc-ys:
+    image: curtinlv/pkc-ys
+    container_name: pkc-ys
+    ports:
+      - "39900:39900"
+    environment:
+      - PKC_TITLE=PKC音色管理系统    # 系统名称
+      - PKC_USER=Curtin             # 用户名
+      - PKC_PASSWORD=${PKC_PASSWORD}         # 密码
+    volumes:
+    #  - ./ys.json:/app/ys.json          # 音色文件
+      - ./backup:/app/backup          # 音色备份目录
+      - /etc/localtime:/etc/localtime:ro
+    restart: unless-stopped
