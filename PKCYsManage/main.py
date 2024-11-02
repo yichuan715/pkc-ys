@@ -36,6 +36,7 @@ PKC_USER = os.environ.get('PKC_USER')
 PKC_PASSWORD = os.environ.get('PKC_PASSWORD')
 PKC_VERSION = os.environ.get('PKC_VERSION')
 PKC_TITLE = os.environ.get('PKC_TITLE')
+PKC_MY = os.environ.get('PKC_MY')
 
 if PKC_USER is None:
     PKC_USER = userConfig['users'][0]['username']
@@ -45,10 +46,19 @@ if PKC_VERSION is None:
     PKC_VERSION = 'v1.0.0'
 if PKC_TITLE is None:
     PKC_TITLE = userConfig['标题']
+if PKC_MY is None:
+    PKC_MY = userConfig['接口密钥']
+
 # 导出 JSON 文件
 @app.route('/ysList')
 def printYsList():
-    # return jsonify(read_json_file(JSON_FILE))
+    if len(PKC_MY) > 0:
+        if request.method == 'GET':
+            my = request.args.get('my')
+            if my != PKC_MY:
+                return "密钥错误！"
+        else:
+            return "没权限访问"
     # 将数据转换为格式化的 JSON 字符串
     json_data = json.dumps(read_json_file(JSON_FILE), ensure_ascii=False, indent=4)
 
@@ -321,6 +331,7 @@ def dashboard():
                        curtabName=curtabName,
                        titleName=PKC_TITLE,
                        PKC_VERSION=PKC_VERSION,
+                       PKC_MY=PKC_MY,
                        response=response)  # 将 response 传递到模板
 
 

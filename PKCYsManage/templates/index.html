@@ -653,9 +653,11 @@
     }
 
     function getYsList() {
-      {#var domainName = '{{ domainName }}';#}
-      {#var mainUrl =  domainName.length > 0 ? window.location.protocol+'//'+domainName+':'+window.location.port:window.location.origin;#}
+      var my = '{{ PKC_MY }}';
       var currentUrl = window.location.origin + '/ysList';
+      if (my.length > 0){
+        currentUrl = currentUrl + '?my='+my;
+      }
       document.getElementById('urlText').textContent = currentUrl;
       document.getElementById('urlModal').style.display = 'flex';
 

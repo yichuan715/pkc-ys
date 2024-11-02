@@ -1,7 +1,6 @@
 # PKC音色管理后台
-```
-仅用于PKC音色管理，可自定义音色接口地址
-```
+仅用于PKC音色维护，用户可自定义音色后台管理，进行音色增删减
+![img.png](img.png)
 ##  一、启动项目
 
 ## 1. 使用 Python 启动
@@ -43,6 +42,7 @@ services:
       - PKC_TITLE=PKC音色管理系统    # 系统名称
       - PKC_USER=pkc             # 用户名
       - PKC_PASSWORD=pkc         # 密码，如需带特殊字符用.env引入
+      - PKC_MY=pkc         # 接口密钥，如需带特殊字符用.env引入
     volumes:
       - ./backup:/app/backup          # 音色备份目录
       - /etc/localtime:/etc/localtime:ro 
