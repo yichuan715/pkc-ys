@@ -21,18 +21,16 @@ tail -f nohup.out
 ```
 
 ## 2. 使用 Docker 启动
-确保你已安装 Docker。使用以下命令构建镜像并运行容器：  
-`PKC_USER=PKC  #用户名，默认pkc（可修改）`   
-`PKC_PASSWORD=PKC  #登录密码，默认pkc（可修改）`  
+确保你已安装 Docker。使用以下命令构建镜像并运行容器：   
 ```bash
 docker run -d -p 39900:39900 -e PKC_USER=pkc -e PKC_PASSWORD=pkc --name pkc-ys curtinlv/pkc-ys
 ```
+说明：  
+`PKC_USER=pkc  #用户名，默认pkc（可修改）`   
+`PKC_PASSWORD=pkc  #登录密码，默认pkc（可修改）`  
 
 ## 3. 使用 Docker Compose 启动（推荐）
-确保你已安装 Docker Compose。创建一个 `docker-compose.yml` 文件并填入以下内容：  
-`PKC_USER=PKC  #用户名，默认pkc（可修改）`   
-`PKC_PASSWORD=PKC  #登录密码，默认pkc（可修改）`  
-`PKC_MY=1d5ee08d-96f4-4acf-866e-07adb8781184    # 接口密钥（可修改）`   
+确保你已安装 Docker Compose。创建一个 `docker-compose.yml` 文件并填入以下内容：
 ```yaml
 version: '3.3'
 
@@ -53,6 +51,11 @@ services:
     restart: unless-stopped
 
 ```
+说明：  
+`PKC_USER=pkc  #用户名，默认pkc（可修改）`   
+`PKC_PASSWORD=pkc  #登录密码，默认pkc（可修改）`  
+`PKC_MY=1d5ee08d-96f4-4acf-866e-07adb8781184    # 接口密钥（可修改）`   
+
 然后，在包含 docker-compose.yml 的目录下运行以下命令启动服务：
 ```bash
 docker-compose up -d
