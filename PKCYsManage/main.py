@@ -309,7 +309,11 @@ def dashboard():
                         os.makedirs(backup_dir)
                     # 生成备份文件名
                     backup_file = os.path.join(backup_dir, f"{os.path.basename(JSON_FILE)}_{backup_time}.json")
-                    os.rename(JSON_FILE, backup_file)
+                    # os.rename(JSON_FILE, backup_file)
+                    # 复制文件
+                    shutil.copy2(JSON_FILE, backup_file)
+                    # 删除原文件
+                    os.remove(JSON_FILE)
                     file.save(JSON_FILE)
                     response = f"导入成功，原文件已备份为：{backup_file}"
                 else:

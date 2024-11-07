@@ -21,14 +21,18 @@ tail -f nohup.out
 ```
 
 ## 2. 使用 Docker 启动
-确保你已安装 Docker。使用以下命令构建镜像并运行容器：
+确保你已安装 Docker。使用以下命令构建镜像并运行容器：  
+`PKC_USER=PKC  #用户名，默认pkc（可修改）`   
+`PKC_PASSWORD=PKC  #登录密码，默认pkc（可修改）`  
 ```bash
 docker run -d -p 39900:39900 -e PKC_USER=pkc -e PKC_PASSWORD=pkc --name pkc-ys curtinlv/pkc-ys
 ```
 
-## 3. 使用 Docker Compose 启动
-确保你已安装 Docker Compose。创建一个 `docker-compose.yml` 文件并填入以下内容：
-
+## 3. 使用 Docker Compose 启动（推荐）
+确保你已安装 Docker Compose。创建一个 `docker-compose.yml` 文件并填入以下内容：  
+`PKC_USER=PKC  #用户名，默认pkc（可修改）`   
+`PKC_PASSWORD=PKC  #登录密码，默认pkc（可修改）`  
+`PKC_MY=1d5ee08d-96f4-4acf-866e-07adb8781184    # 接口密钥（可修改）`   
 ```yaml
 version: '3.3'
 
@@ -42,7 +46,7 @@ services:
       - PKC_TITLE=PKC音色管理系统    # 系统名称
       - PKC_USER=pkc             # 用户名
       - PKC_PASSWORD=pkc         # 密码，如需带特殊字符用.env引入
-      - PKC_MY=pkc         # 接口密钥，如需带特殊字符用.env引入
+      - PKC_MY=1d5ee08d-96f4-4acf-866e-07adb8781184         # 接口密钥，如需带特殊字符用.env引入
     volumes:
       - ./backup:/app/backup          # 音色备份目录
       - /etc/localtime:/etc/localtime:ro 
@@ -55,7 +59,9 @@ docker-compose up -d
 ```
 
 ## 二、访问地址
-音色管理后台访问地址：
+音色管理后台访问地址：  
+默认登录用户名：pkc  
+默认登录密码：pkc
 ```http request
 http://ip:39900
 ```

@@ -7,566 +7,2468 @@
         "type": "琅琅",
         "desc": "免费注册登录，点击个人信息，复制token。琅琅官方每天免费使用20次，琅琅会员无限制使用https://lang123.top?rmd=84601",
         "list": [
-            {
-                "name": "晓晓",
-                "desc": "热门女声、配音解说、有声朗读、客服对话",
-                "img": "https://res.lang123.top/res/img/a2175586-f80d-4d2f-9873-314450063829.jpg",
-                "vid": "zh-CN-XiaoxiaoNeural"
-            },
-            {
-                "name": "晓晓(多情感)(金牌主播,需开通超级会员)",
-                "desc": "热门女声、火遍全网、支持多情感",
-                "img": "https://res.lang123.top/res/img/a2175586-f80d-4d2f-9873-314450063829.jpg",
-                "vid": "azure_zh-CN-XiaoxiaoNeural"
-            },
-            {
-                "name": "晓晓(更真实)(金牌主播,需开通超级会员)",
-                "desc": "热门女声、炸裂逼真效果、支持70多种语言",
-                "img": "https://res.lang123.top/res/img/a2175586-f80d-4d2f-9873-314450063829.jpg",
-                "vid": "azure_zh-CN-XiaoxiaoMultilingualNeural"
-            },
-            {
-                "name": "晓辰(高音质)(金牌主播,需开通超级会员)",
-                "desc": "热门知性女声、解说/宣传、高品质、更好听",
-                "img": "https://res.lang123.top/res/img/afc2bd9b-800b-46d4-b66c-6de22f174a82.jpg",
-                "vid": "ttson_257"
-            },
-            {
-                "name": "晓辰(更真实)(金牌主播,需开通超级会员)",
-                "desc": "热门知性女声、炸裂逼真效果、支持70多种语言",
-                "img": "https://res.lang123.top/res/img/afc2bd9b-800b-46d4-b66c-6de22f174a82.jpg",
-                "vid": "azure_zh-CN-XiaochenMultilingualNeural"
-            },
-            {
-                "name": "思媛",
-                "desc": "热门配音、演讲解说、逼真声音、磁性女声",
-                "img": "https://res.lang123.top/res/img/36ad0860-6d03-49c4-b291-3b113fbb125f.png",
-                "vid": "zhiyuan"
-            },
-            {
-                "name": "思悦",
-                "desc": "短视频配音、宣传解说、有声阅读、年轻女声",
-                "img": "https://res.lang123.top/res/img/db2f9682-1d17-47ec-8841-8e899822764c.png",
-                "vid": "zhiyue"
-            },
-            {
-                "name": "思佳",
-                "desc": "新闻播报、标准女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhijia-v1.jpg",
-                "vid": "sambert-zhijia-v1"
-            },
-            {
-                "name": "思婧",
-                "desc": "通用场景、严厉女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhijing-v1.jpg",
-                "vid": "sambert-zhijing-v1"
-            },
-            {
-                "name": "思莎",
-                "desc": "通用场景、知性女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhistella-v1.jpeg",
-                "vid": "sambert-zhistella-v1"
-            },
-            {
-                "name": "思婷",
-                "desc": "通用场景、电台女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiting-v1.jpg",
-                "vid": "sambert-zhiting-v1"
-            },
-            {
-                "name": "思妙",
-                "desc": "阅读产品简介、数字人、直播、情感女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhimiao-emo-v1.jpg",
-                "vid": "sambert-zhimiao-emo-v1"
-            },
-            {
-                "name": "思雅",
-                "desc": "有声阅读、朗诵、宣传、冷静年轻女声",
-                "img": "https://res.lang123.top/res/img/08d0c7f7-4266-4af1-a00e-a6db089a6489.png",
-                "vid": "zhiya"
-            },
-            {
-                "name": "梦洁",
-                "desc": "阅读、广告、宣传、年轻/活力女声",
-                "img": "https://res.lang123.top/res/img/1fbd491a-77c0-4682-96f9-7d73ddc0374f.png",
-                "vid": "zhigui"
-            },
-            {
-                "name": "梦瑶",
-                "desc": "配音、解说、宣传广告女声",
-                "img": "https://res.lang123.top/res/img/c6e51fc0-4149-46c2-8741-97f1b5eced17.png",
-                "vid": "zhimao"
-            },
-            {
-                "name": "梦琪",
-                "desc": "通用场景、温柔女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiqi-v1.png",
-                "vid": "sambert-zhiqi-v1"
-            },
-            {
-                "name": "梦茹",
-                "desc": "新闻播报、标准通用女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiru-v1.png",
-                "vid": "sambert-zhiru-v1"
-            },
-            {
-                "name": "梦倩",
-                "desc": "配音解说、新闻播报、标准女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiqian-v1.png",
-                "vid": "sambert-zhiqian-v1"
-            },
-            {
-                "name": "梦薇",
-                "desc": "阅读产品简介、萝莉女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiwei-v1.png",
-                "vid": "sambert-zhiwei-v1"
-            },
-            {
-                "name": "梦娜",
-                "desc": "通用场景、浙普女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhina-v1.png",
-                "vid": "sambert-zhina-v1"
-            },
-            {
-                "name": "梦笑",
-                "desc": "通用场景、资讯女声",
-                "img": "https://res.lang123.top/res/img/sambert-zhixiao-v1.png",
-                "vid": "sambert-zhixiao-v1"
-            },
-            {
-                "name": "晓颜(金牌主播,需开通超级会员)",
-                "desc": "科普解说、广告旁白女声",
-                "img": "https://res.lang123.top/res/img/3628870b-9317-4c63-a37b-0a9ec36d2e80.png",
-                "vid": "ttson_253"
-            },
-            {
-                "name": "晓秋(金牌主播,需开通超级会员)",
-                "desc": "宣传片、纪录片沉稳女声",
-                "img": "https://res.lang123.top/res/img/c0667009-7fbe-4436-a7b5-d2f055ac4ad2.png",
-                "vid": "ttson_251"
-            },
-            {
-                "name": "晓梦(金牌主播,需开通超级会员)",
-                "desc": "广告、宣传年轻女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/3a28a73e-81ec-45df-825b-b97c73322490.png",
-                "vid": "ttson_248"
-            },
-            {
-                "name": "晓睿(金牌主播,需开通超级会员)",
-                "desc": "解说、百科沉稳女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/ee781313-6873-4c1a-841f-ceb771181e2b.png",
-                "vid": "ttson_247"
-            },
-            {
-                "name": "晓涵(金牌主播,需开通超级会员)",
-                "desc": "客服、宣传年轻女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-XiaohanNeural.png",
-                "vid": "azure_zh-CN-XiaohanNeural"
-            },
-            {
-                "name": "晓甄(金牌主播,需开通超级会员)",
-                "desc": "阅读、解说温柔女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-XiaozhenNeural.png",
-                "vid": "azure_zh-CN-XiaozhenNeural"
-            },
-            {
-                "name": "晓墨(金牌主播,需开通超级会员)",
-                "desc": "广告、解说年轻女声、支持多情感、多角色",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-XiaomoNeural.jpg",
-                "vid": "azure_zh-CN-XiaomoNeural"
-            },
-            {
-                "name": "晓悠(金牌主播,需开通超级会员)",
-                "desc": "动漫、游戏解说儿童女声",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-XiaoyouNeural.png",
-                "vid": "azure_zh-CN-XiaoyouNeural"
-            },
-            {
-                "name": "晓双(金牌主播,需开通超级会员)",
-                "desc": "动漫、游戏解说女声/童声、支持多情感",
-                "img": "https://res.lang123.top/res/img/f524d7d6-ad8e-464d-a338-b3cb58133788.png",
-                "vid": "ttson_250"
-            },
-            {
-                "name": "晓伊",
-                "desc": "年轻女声/童声、转换速度快",
-                "img": "https://res.lang123.top/res/img/36c3f744-2e03-412b-a4b4-959ba876cb55.jpeg",
-                "vid": "zh-CN-XiaoyiNeural"
-            },
-            {
-                "name": "晓伊(多情感)(金牌主播,需开通超级会员)",
-                "desc": "年轻女声/童声、支持多情感",
-                "img": "https://res.lang123.top/res/img/36c3f744-2e03-412b-a4b4-959ba876cb55.jpeg",
-                "vid": "azure_zh-CN-XiaoyiNeural"
-            },
-            {
-                "name": "智楠",
-                "desc": "通用场景、广告男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhinan-v1.png",
-                "vid": "sambert-zhinan-v1"
-            },
-            {
-                "name": "智楚",
-                "desc": "新闻播报、舌尖男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhichu-v1.png",
-                "vid": "sambert-zhichu-v1"
-            },
-            {
-                "name": "智德",
-                "desc": "新闻播报、标准男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhide-v1.png",
-                "vid": "sambert-zhide-v1"
-            },
-            {
-                "name": "智祥",
-                "desc": "配音解说、磁性男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhixiang-v1.png",
-                "vid": "sambert-zhixiang-v1"
-            },
-            {
-                "name": "智茗",
-                "desc": "通用场景、诙谐男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiming-v1.png",
-                "vid": "sambert-zhiming-v1"
-            },
-            {
-                "name": "智墨",
-                "desc": "通用场景、情感男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhimo-v1.png",
-                "vid": "sambert-zhimo-v1"
-            },
-            {
-                "name": "智竖",
-                "desc": "通用场景、资讯男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhishu-v1.png",
-                "vid": "sambert-zhishu-v1"
-            },
-            {
-                "name": "智颖",
-                "desc": "通用场景、软萌童声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiying-v1.png",
-                "vid": "sambert-zhiying-v1"
-            },
-            {
-                "name": "智伦",
-                "desc": "配音解说、悬疑男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhilun-v1.png",
-                "vid": "sambert-zhilun-v1"
-            },
-            {
-                "name": "智飞",
-                "desc": "配音解说、激昂男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhifei-v1.png",
-                "vid": "sambert-zhifei-v1"
-            },
-            {
-                "name": "明达",
-                "desc": "新闻、阅读、宣传、标准男声",
-                "img": "https://res.lang123.top/res/img/ba99636b-dee8-4ab6-9131-bf66597db208.png",
-                "vid": "zhida"
-            },
-            {
-                "name": "明硕",
-                "desc": "朗读、客服、解说、标准通用男声",
-                "img": "https://res.lang123.top/res/img/3cd52ee2-d67f-4797-be88-84e3e064a214.png",
-                "vid": "zhishuo"
-            },
-            {
-                "name": "明浩",
-                "desc": "通用场景、咨询男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhihao-v1.png",
-                "vid": "sambert-zhihao-v1"
-            },
-            {
-                "name": "明晔",
-                "desc": "通用场景、青年男声",
-                "img": "https://res.lang123.top/res/img/sambert-zhiye-v1.png",
-                "vid": "sambert-zhiye-v1"
-            },
-            {
-                "name": "云泽(金牌主播,需开通超级会员)",
-                "desc": "爆火全网麦克阿瑟、纪录片男声、支持多情感、多角色",
-                "img": "https://res.lang123.top/res/img/4b730596-6574-477b-9f02-cf987c955681.png",
-                "vid": "ttson_254"
-            },
-            {
-                "name": "云皓(金牌主播,需开通超级会员)",
-                "desc": "阅读解说、广告宣传中年男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/b3e48509-5965-462f-8d7e-19a7b40eba55.png",
-                "vid": "ttson_252"
-            },
-            {
-                "name": "云希",
-                "desc": "火遍全网、电影解说、广告宣传男声",
-                "img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
-                "vid": "zh-CN-YunxiNeural"
-            },
-            {
-                "name": "云希(多情感)(金牌主播,需开通超级会员)",
-                "desc": "火遍全网、解说宣传男声、支持多情感、多角色",
-                "img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
-                "vid": "azure_zh-CN-YunxiNeural"
-            },
-            {
-                "name": "云希(更真实)(金牌主播,需开通超级会员)",
-                "desc": "热门解说宣传、炸裂真实声音、支持70多种语言",
-                "img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
-                "vid": "azure_zh-CN-YunyiMultilingualNeural"
-            },
-            {
-                "name": "云健",
-                "desc": "热门配音、宣传、解说、标准男声",
-                "img": "https://res.lang123.top/res/img/21cbeef1-3b2d-4f8e-8610-0ebfc52dba15.jpeg",
-                "vid": "zh-CN-YunjianNeural"
-            },
-            {
-                "name": "云健(多情感)(金牌主播,需开通超级会员)",
-                "desc": "热门配音、宣传、解说、标准男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/21cbeef1-3b2d-4f8e-8610-0ebfc52dba15.jpeg",
-                "vid": "azure_zh-CN-YunjianNeural"
-            },
-            {
-                "name": "云扬",
-                "desc": "配音、解说、朗读、磁性男声",
-                "img": "https://res.lang123.top/res/img/8d9d77e5-fcd6-4cfc-a0b5-a397520fda92.jpeg",
-                "vid": "zh-CN-YunyangNeural"
-            },
-            {
-                "name": "云扬(多情感)(金牌主播,需开通超级会员)",
-                "desc": "配音、解说、朗读、磁性男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/8d9d77e5-fcd6-4cfc-a0b5-a397520fda92.jpeg",
-                "vid": "azure_zh-CN-YunyangNeural"
-            },
-            {
-                "name": "云野(金牌主播,需开通超级会员)",
-                "desc": "热门磁性、讲故事男声、支持多情感、多角色",
-                "img": "https://res.lang123.top/res/img/68aade2e-ee3f-47ab-a455-f12d82283a8d.jpg",
-                "vid": "ttson_249"
-            },
-            {
-                "name": "云枫(金牌主播,需开通超级会员)",
-                "desc": "阅读、解说、宣传年轻男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-YunfengNeural.jpg",
-                "vid": "azure_zh-CN-YunfengNeural"
-            },
-            {
-                "name": "云杰(金牌主播,需开通超级会员)",
-                "desc": "自信温暖男声、对话/朗读/宣传",
-                "img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
-                "vid": "azure_zh-CN-YunjieNeural"
-            },
-            {
-                "name": "云夏",
-                "desc": "年轻男声/童声、动漫解说、游戏、朗读",
-                "img": "https://res.lang123.top/res/img/b47dec80-178d-4582-8dbf-2c042e82f72b.jpeg",
-                "vid": "zh-CN-YunxiaNeural"
-            },
-            {
-                "name": "云夏(多情感)(金牌主播,需开通超级会员)",
-                "desc": "年轻男声/童声、动漫/游戏解说、朗读、支持多情感",
-                "img": "https://res.lang123.top/res/img/b47dec80-178d-4582-8dbf-2c042e82f72b.jpeg",
-                "vid": "azure_zh-CN-YunxiaNeural"
-            },
-            {
-                "name": "婉如(金牌主播,需开通超级会员)",
-                "desc": "豆包同款、宣传解说女声、官方授权、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV700_streaming.png",
-                "vid": "BV700_streaming"
-            },
-            {
-                "name": "婉红(金牌主播,需开通超级会员)",
-                "desc": "抖音小姐姐、剪映同款、宣传解说女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV001_streaming.png",
-                "vid": "BV001_streaming"
-            },
-            {
-                "name": "婉秋(金牌主播,需开通超级会员)",
-                "desc": "豆包同款、配音/解说、甜美亲切女声、官方授权",
-                "img": "https://res.lang123.top/res/img/BV007_streaming.png",
-                "vid": "BV007_streaming"
-            },
-            {
-                "name": "婉兰(金牌主播,需开通超级会员)",
-                "desc": "视频配音、活泼可爱、甜美女声",
-                "img": "https://res.lang123.top/res/img/BV005_streaming.png",
-                "vid": "BV005_streaming"
-            },
-            {
-                "name": "婉钰(金牌主播,需开通超级会员)",
-                "desc": "双语教学、知性、温柔女声",
-                "img": "https://res.lang123.top/res/img/BV034_streaming.png",
-                "vid": "BV034_streaming"
-            },
-            {
-                "name": "婉楚(金牌主播,需开通超级会员)",
-                "desc": "有声书朗读、宣传解说年轻女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV113_streaming.png",
-                "vid": "BV113_streaming"
-            },
-            {
-                "name": "婉雪(金牌主播,需开通超级会员)",
-                "desc": "有声书朗读、沉稳女声、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV115_streaming.png",
-                "vid": "BV115_streaming"
-            },
-            {
-                "name": "旭然(金牌主播,需开通超级会员)",
-                "desc": "磁性朗读、有声书、深沉男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV701_streaming.png",
-                "vid": "BV701_streaming"
-            },
-            {
-                "name": "旭华(金牌主播,需开通超级会员)",
-                "desc": "有声书朗读、小说朗读温暖男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV119_streaming.png",
-                "vid": "BV119_streaming"
-            },
-            {
-                "name": "旭鹏(金牌主播,需开通超级会员)",
-                "desc": "儒雅、沉稳男声、有声阅读、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV102_streaming.png",
-                "vid": "BV102_streaming"
-            },
-            {
-                "name": "旭炀(金牌主播,需开通超级会员)",
-                "desc": "宣传解说、朗读播报通用男声、支持多情感",
-                "img": "https://res.lang123.top/res/img/BV705_streaming.png",
-                "vid": "BV705_streaming"
-            },
-            {
-                "name": "旭辉(金牌主播,需开通超级会员)",
-                "desc": "抖音小哥、剪映同款、阅读宣传、朗读播报通用男声",
-                "img": "https://res.lang123.top/res/img/BV002_streaming.png",
-                "vid": "BV002_streaming"
-            },
-            {
-                "name": "旭阳(金牌主播,需开通超级会员)",
-                "desc": "双语教学、知性、温暖男声",
-                "img": "https://res.lang123.top/res/img/BV033_streaming.png",
-                "vid": "BV033_streaming"
-            },
-            {
-                "name": "旭光(金牌主播,需开通超级会员)",
-                "desc": "视频配音、阅读朗诵、宣传解说、阳光清脆男声",
-                "img": "https://res.lang123.top/res/img/BV056_streaming.png",
-                "vid": "BV056_streaming"
-            },
-            {
-                "name": "旭萌(金牌主播,需开通超级会员)",
-                "desc": "豆包同款、热门声音、奶气萌娃、官方授权",
-                "img": "https://res.lang123.top/res/img/BV051_streaming.png",
-                "vid": "BV051_streaming"
-            },
-            {
-                "name": "旭成(金牌主播,需开通超级会员)",
-                "desc": "剪映同款、热门特色方言、广西表哥、官方授权",
-                "img": "https://res.lang123.top/res/img/BV213_streaming.png",
-                "vid": "BV213_streaming"
-            },
-            {
-                "name": "旭昊(金牌主播,需开通超级会员)",
-                "desc": "剪映同款、热门特色方言、东北老铁、官方授权",
-                "img": "https://res.lang123.top/res/img/BV021_streaming.png",
-                "vid": "BV021_streaming"
-            },
-            {
-                "name": "旭庆(金牌主播,需开通超级会员)",
-                "desc": "剪映同款、热门特色方言、重庆小伙、官方授权",
-                "img": "https://res.lang123.top/res/img/BV019_streaming.png",
-                "vid": "BV019_streaming"
-            },
-            {
-                "name": "晓北",
-                "desc": "辽宁话、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/a43f27e5-5d79-48e8-a8d5-bb9873e0219c.png",
-                "vid": "zh-CN-liaoning-XiaobeiNeural"
-            },
-            {
-                "name": "晓妮",
-                "desc": "陕西话、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/cafe2452-e25f-4b05-882b-39d3bb966a36.jpg",
-                "vid": "zh-CN-shaanxi-XiaoniNeural"
-            },
-            {
-                "name": "云翔(金牌主播,需开通超级会员)",
-                "desc": "山东话、宣传、解说男声",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-shandong-YunxiangNeural.png",
-                "vid": "azure_zh-CN-shandong-YunxiangNeural"
-            },
-            {
-                "name": "云登(金牌主播,需开通超级会员)",
-                "desc": "河南话、广告、宣传男声",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-henan-YundengNeural.png",
-                "vid": "azure_zh-CN-henan-YundengNeural"
-            },
-            {
-                "name": "云熙(金牌主播,需开通超级会员)",
-                "desc": "四川话、宣传、解说男声",
-                "img": "https://res.lang123.top/res/img/azure_zh-CN-sichuan-YunxiNeural.png",
-                "vid": "azure_zh-CN-sichuan-YunxiNeural"
-            },
-            {
-                "name": "晓彤(金牌主播,需开通超级会员)",
-                "desc": "上海话、阅读、解说温柔女声",
-                "img": "https://res.lang123.top/res/img/azure_wuu-CN-XiaotongNeural.png",
-                "vid": "azure_wuu-CN-XiaotongNeural"
-            },
-            {
-                "name": "云喆(金牌主播,需开通超级会员)",
-                "desc": "上海话、广告、解说男声",
-                "img": "https://res.lang123.top/res/img/azure_wuu-CN-YunzheNeural.png",
-                "vid": "azure_wuu-CN-YunzheNeural"
-            },
-            {
-                "name": "曉佳",
-                "desc": "粤语女声、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/f4ab0dff-060e-48db-aed9-97533265e2cb.jpg",
-                "vid": "zh-HK-HiuGaaiNeural"
-            },
-            {
-                "name": "曉曼",
-                "desc": "粤语年轻女声、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/1cec950f-ce7c-40d5-a6ae-ad1a76e1fef0.jpg",
-                "vid": "zh-HK-HiuMaanNeural"
-            },
-            {
-                "name": "雲龍",
-                "desc": "粤语男声、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/c0444f3a-b238-4185-b322-111cab5b5a11.jpg",
-                "vid": "zh-HK-WanLungNeural"
-            },
-            {
-                "name": "晓敏(金牌主播,需开通超级会员)",
-                "desc": "粤语年轻女声、宣传、广告、客服",
-                "img": "https://res.lang123.top/res/img/azure_yue-CN-XiaoMinNeural.png",
-                "vid": "azure_yue-CN-XiaoMinNeural"
-            },
-            {
-                "name": "云松(金牌主播,需开通超级会员)",
-                "desc": "粤语、宣传、广告男声",
-                "img": "https://res.lang123.top/res/img/azure_yue-CN-YunSongNeural.jpg",
-                "vid": "azure_yue-CN-YunSongNeural"
-            },
-            {
-                "name": "曉臻",
-                "desc": "台湾女声、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/afc2bd9b-800b-46d4-b66c-6de22f174a82.jpg",
-                "vid": "zh-TW-HsiaoChenNeural"
-            },
-            {
-                "name": "曉雨",
-                "desc": "台湾女声、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/1f110d84-90ec-4cac-8137-8daed833c8d7.jpg",
-                "vid": "zh-TW-HsiaoYuNeural"
-            },
-            {
-                "name": "雲哲",
-                "desc": "台湾男声、转换速度快、不支持功能标签",
-                "img": "https://res.lang123.top/res/img/5dc252b9-329b-4ec7-beb7-4eb466fc716c.jpg",
-                "vid": "zh-TW-YunJheNeural"
-            }
-        ]
-    },
+			{
+				"name": "思媛",
+				"desc": "热门配音、演讲解说、逼真声音、磁性女声",
+				"img": "https://res.lang123.top/res/img/36ad0860-6d03-49c4-b291-3b113fbb125f.png",
+				"vid": "zhiyuan"
+			},
+			{
+				"name": "思莎",
+				"desc": "通用场景、知性女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhistella-v1.jpeg",
+				"vid": "sambert-zhistella-v1"
+			},
+			{
+				"name": "晓晓Pro",
+				"desc": "热门女声、支持多情感、适配全场景",
+				"img": "https://res.lang123.top/res/img/a2175586-f80d-4d2f-9873-314450063829.jpg",
+				"vid": "azure_zh-CN-XiaoxiaoNeural"
+			},
+			{
+				"name": "晓晓Ultra",
+				"desc": "热门女声、炸裂逼真效果、支持70多种语音",
+				"img": "https://res.lang123.top/res/img/a2175586-f80d-4d2f-9873-314450063829.jpg",
+				"vid": "azure_zh-CN-XiaoxiaoMultilingualNeural"
+			},
+			{
+				"name": "晓辰",
+				"desc": "热门知性女声、休闲放松、解说/宣传",
+				"img": "https://res.lang123.top/res/img/afc2bd9b-800b-46d4-b66c-6de22f174a82.jpg",
+				"vid": "xiaochen"
+			},
+			{
+				"name": "晓辰Pro",
+				"desc": "热门知性女声、解说/宣传、高品质、更好听",
+				"img": "https://res.lang123.top/res/img/afc2bd9b-800b-46d4-b66c-6de22f174a82.jpg",
+				"vid": "ttson_257"
+			},
+			{
+				"name": "晓辰Ultra",
+				"desc": "热门知性女声、炸裂逼真效果、支持70多种语言",
+				"img": "https://res.lang123.top/res/img/afc2bd9b-800b-46d4-b66c-6de22f174a82.jpg",
+				"vid": "azure_zh-CN-XiaochenMultilingualNeural"
+			},
+			{
+				"name": "思悦",
+				"desc": "短视频配音、宣传解说、有声阅读、年轻女声",
+				"img": "https://res.lang123.top/res/img/db2f9682-1d17-47ec-8841-8e899822764c.png",
+				"vid": "zhiyue"
+			},
+			{
+				"name": "思佳",
+				"desc": "新闻播报、标准女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhijia-v1.jpg",
+				"vid": "sambert-zhijia-v1"
+			},
+			{
+				"name": "思婧",
+				"desc": "通用场景、严厉女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhijing-v1.jpg",
+				"vid": "sambert-zhijing-v1"
+			},
+			{
+				"name": "思婷",
+				"desc": "通用场景、电台女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiting-v1.jpg",
+				"vid": "sambert-zhiting-v1"
+			},
+			{
+				"name": "思妙",
+				"desc": "阅读产品简介、数字人、直播、情感女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhimiao-emo-v1.jpg",
+				"vid": "sambert-zhimiao-emo-v1"
+			},
+			{
+				"name": "思雅",
+				"desc": "有声阅读、朗诵、宣传、冷静年轻女声",
+				"img": "https://res.lang123.top/res/img/08d0c7f7-4266-4af1-a00e-a6db089a6489.png",
+				"vid": "zhiya"
+			},
+			{
+				"name": "梦洁",
+				"desc": "阅读、广告、宣传、年轻/活力女声",
+				"img": "https://res.lang123.top/res/img/1fbd491a-77c0-4682-96f9-7d73ddc0374f.png",
+				"vid": "zhigui"
+			},
+			{
+				"name": "梦瑶",
+				"desc": "配音、解说、宣传广告女声",
+				"img": "https://res.lang123.top/res/img/c6e51fc0-4149-46c2-8741-97f1b5eced17.png",
+				"vid": "zhimao"
+			},
+			{
+				"name": "梦琪",
+				"desc": "通用场景、温柔女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiqi-v1.png",
+				"vid": "sambert-zhiqi-v1"
+			},
+			{
+				"name": "梦茹",
+				"desc": "新闻播报、标准通用女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiru-v1.png",
+				"vid": "sambert-zhiru-v1"
+			},
+			{
+				"name": "梦倩",
+				"desc": "配音解说、新闻播报、标准女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiqian-v1.png",
+				"vid": "sambert-zhiqian-v1"
+			},
+			{
+				"name": "梦薇",
+				"desc": "阅读产品简介、萝莉女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiwei-v1.png",
+				"vid": "sambert-zhiwei-v1"
+			},
+			{
+				"name": "梦娜",
+				"desc": "通用场景、浙普女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhina-v1.png",
+				"vid": "sambert-zhina-v1"
+			},
+			{
+				"name": "梦笑",
+				"desc": "通用场景、资讯女声",
+				"img": "https://res.lang123.top/res/img/sambert-zhixiao-v1.png",
+				"vid": "sambert-zhixiao-v1"
+			},
+			{
+				"name": "晓颜",
+				"desc": "友好舒适女声、科普解说、广告旁白",
+				"img": "https://res.lang123.top/res/img/3628870b-9317-4c63-a37b-0a9ec36d2e80.png",
+				"vid": "ttson_253"
+			},
+			{
+				"name": "晓秋",
+				"desc": "知性舒适沉稳女声、宣传/解说、纪录片",
+				"img": "https://res.lang123.top/res/img/c0667009-7fbe-4436-a7b5-d2f055ac4ad2.png",
+				"vid": "ttson_251"
+			},
+			{
+				"name": "晓梦",
+				"desc": "乐观温柔年轻女声、广告/宣传、支持多情感",
+				"img": "https://res.lang123.top/res/img/3a28a73e-81ec-45df-825b-b97c73322490.png",
+				"vid": "ttson_248"
+			},
+			{
+				"name": "晓睿",
+				"desc": "成熟睿智女声、解说/百科、支持多情感",
+				"img": "https://res.lang123.top/res/img/ee781313-6873-4c1a-841f-ceb771181e2b.png",
+				"vid": "ttson_247"
+			},
+			{
+				"name": "晓涵",
+				"desc": "温柔甜美女声、客服/宣传、支持多情感",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-XiaohanNeural.png",
+				"vid": "azure_zh-CN-XiaohanNeural"
+			},
+			{
+				"name": "晓甄",
+				"desc": "平静自信女声、阅读/解说、支持多情感",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-XiaozhenNeural.png",
+				"vid": "azure_zh-CN-XiaozhenNeural"
+			},
+			{
+				"name": "晓墨",
+				"desc": "放松平静女声、广告/解说、支持多情感、多角色",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-XiaomoNeural.jpg",
+				"vid": "azure_zh-CN-XiaomoNeural"
+			},
+			{
+				"name": "晓悠",
+				"desc": "清脆愉悦儿童女声、动漫/游戏/儿童场景",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-XiaoyouNeural.png",
+				"vid": "azure_zh-CN-XiaoyouNeural"
+			},
+			{
+				"name": "晓双",
+				"desc": "可爱愉悦儿童女声、动漫/游戏、支持多情感",
+				"img": "https://res.lang123.top/res/img/f524d7d6-ad8e-464d-a338-b3cb58133788.png",
+				"vid": "ttson_250"
+			},
+			{
+				"name": "晓伊",
+				"desc": "明亮年轻女声/童声、支持多情感",
+				"img": "https://res.lang123.top/res/img/36c3f744-2e03-412b-a4b4-959ba876cb55.jpeg",
+				"vid": "azure_zh-CN-XiaoyiNeural"
+			},
+			{
+				"name": "麦克阿瑟",
+				"desc": "火遍全网大将军、纪录片、电影解说男声",
+				"img": "https://res.lang123.top/res/img/mike.jpg",
+				"vid": "mike"
+			},
+			{
+				"name": "艾祥",
+				"desc": "热门配音、演讲、解说、纪录片、磁性男声",
+				"img": "https://res.lang123.top/res/img/4b730596-6574-477b-9f02-cf987c955681.png",
+				"vid": "aixiang"
+			},
+			{
+				"name": "艾楠",
+				"desc": "阅读、解说、宣传广告、年轻男声",
+				"img": "https://res.lang123.top/res/img/ad1b86e0-1d6f-4ca3-b84d-499f7e2598a2.png",
+				"vid": "ainan"
+			},
+			{
+				"name": "智楠",
+				"desc": "通用场景、广告男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhinan-v1.png",
+				"vid": "sambert-zhinan-v1"
+			},
+			{
+				"name": "智楚",
+				"desc": "新闻播报、舌尖男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhichu-v1.png",
+				"vid": "sambert-zhichu-v1"
+			},
+			{
+				"name": "智德",
+				"desc": "新闻播报、标准男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhide-v1.png",
+				"vid": "sambert-zhide-v1"
+			},
+			{
+				"name": "智祥",
+				"desc": "配音解说、磁性男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhixiang-v1.png",
+				"vid": "sambert-zhixiang-v1"
+			},
+			{
+				"name": "智茗",
+				"desc": "通用场景、诙谐男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiming-v1.png",
+				"vid": "sambert-zhiming-v1"
+			},
+			{
+				"name": "智墨",
+				"desc": "通用场景、情感男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhimo-v1.png",
+				"vid": "sambert-zhimo-v1"
+			},
+			{
+				"name": "智竖",
+				"desc": "通用场景、资讯男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhishu-v1.png",
+				"vid": "sambert-zhishu-v1"
+			},
+			{
+				"name": "智颖",
+				"desc": "通用场景、软萌童声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiying-v1.png",
+				"vid": "sambert-zhiying-v1"
+			},
+			{
+				"name": "智伦",
+				"desc": "配音解说、悬疑男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhilun-v1.png",
+				"vid": "sambert-zhilun-v1"
+			},
+			{
+				"name": "智飞",
+				"desc": "配音解说、激昂男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhifei-v1.png",
+				"vid": "sambert-zhifei-v1"
+			},
+			{
+				"name": "明达",
+				"desc": "新闻、阅读、宣传、标准男声",
+				"img": "https://res.lang123.top/res/img/ba99636b-dee8-4ab6-9131-bf66597db208.png",
+				"vid": "zhida"
+			},
+			{
+				"name": "明硕",
+				"desc": "朗读、客服、解说、标准通用男声",
+				"img": "https://res.lang123.top/res/img/3cd52ee2-d67f-4797-be88-84e3e064a214.png",
+				"vid": "zhishuo"
+			},
+			{
+				"name": "明浩",
+				"desc": "通用场景、咨询男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhihao-v1.png",
+				"vid": "sambert-zhihao-v1"
+			},
+			{
+				"name": "明晔",
+				"desc": "通用场景、青年男声",
+				"img": "https://res.lang123.top/res/img/sambert-zhiye-v1.png",
+				"vid": "sambert-zhiye-v1"
+			},
+			{
+				"name": "四郎",
+				"desc": "热门/特色声音，搞笑、解说、男声",
+				"img": "https://res.lang123.top/res/img/silang.jpg",
+				"vid": "silang"
+			},
+			{
+				"name": "猴哥",
+				"desc": "热门/特色声音，搞笑、配音、男声",
+				"img": "https://res.lang123.top/res/img/houge.png",
+				"vid": "houge"
+			},
+			{
+				"name": "云泽",
+				"desc": "爆火全网麦克阿瑟、纪录片男声、支持多情感",
+				"img": "https://res.lang123.top/res/img/4b730596-6574-477b-9f02-cf987c955681.png",
+				"vid": "ttson_254"
+			},
+			{
+				"name": "云皓",
+				"desc": "温暖乐观成熟男声、解说/宣传、支持多情感",
+				"img": "https://res.lang123.top/res/img/b3e48509-5965-462f-8d7e-19a7b40eba55.png",
+				"vid": "ttson_252"
+			},
+			{
+				"name": "云希Pro",
+				"desc": "火遍全网、解说宣传男声、支持多情感、多角色",
+				"img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
+				"vid": "azure_zh-CN-YunxiNeural"
+			},
+			{
+				"name": "云希Ultra",
+				"desc": "热门解说宣传、炸裂真实声音、支持70多种语言",
+				"img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
+				"vid": "azure_zh-CN-YunyiMultilingualNeural"
+			},
+			{
+				"name": "云健",
+				"desc": "放松魅力标准男声、宣传/解说、支持多情感",
+				"img": "https://res.lang123.top/res/img/21cbeef1-3b2d-4f8e-8610-0ebfc52dba15.jpeg",
+				"vid": "azure_zh-CN-YunjianNeural"
+			},
+			{
+				"name": "云扬",
+				"desc": "专业平静磁性男声、解说/朗读、支持多情感",
+				"img": "https://res.lang123.top/res/img/8d9d77e5-fcd6-4cfc-a0b5-a397520fda92.jpeg",
+				"vid": "azure_zh-CN-YunyangNeural"
+			},
+			{
+				"name": "云野",
+				"desc": "成熟放松磁性男声、讲故事/朗读、支持多情感",
+				"img": "https://res.lang123.top/res/img/68aade2e-ee3f-47ab-a455-f12d82283a8d.jpg",
+				"vid": "ttson_249"
+			},
+			{
+				"name": "云枫",
+				"desc": "自信深情年轻男声、阅读/解说、支持多情感",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-YunfengNeural.jpg",
+				"vid": "azure_zh-CN-YunfengNeural"
+			},
+			{
+				"name": "云杰",
+				"desc": "自信温暖男声、对话/朗读/宣传",
+				"img": "https://res.lang123.top/res/img/ef921edd-6258-4252-83de-def8a3825f7c.jpeg",
+				"vid": "azure_zh-CN-YunjieNeural"
+			},
+			{
+				"name": "云夏",
+				"desc": "愉悦友好年轻男声、解说/朗读、支持多情感",
+				"img": "https://res.lang123.top/res/img/b47dec80-178d-4582-8dbf-2c042e82f72b.jpeg",
+				"vid": "azure_zh-CN-YunxiaNeural"
+			},
+			{
+				"name": "婉如",
+				"desc": "豆包同款宣传解说女声、官方授权、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV700_streaming.png",
+				"vid": "BV700_streaming"
+			},
+			{
+				"name": "婉红",
+				"desc": "抖音小姐姐、剪映同款、宣传解说、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV001_streaming.png",
+				"vid": "BV001_streaming"
+			},
+			{
+				"name": "婉秋",
+				"desc": "豆包同款、配音/解说、甜美亲切女声、官方授权",
+				"img": "https://res.lang123.top/res/img/BV007_streaming.png",
+				"vid": "BV007_streaming"
+			},
+			{
+				"name": "婉兰",
+				"desc": "视频配音、活泼可爱、甜美女声",
+				"img": "https://res.lang123.top/res/img/BV005_streaming.png",
+				"vid": "BV005_streaming"
+			},
+			{
+				"name": "婉钰",
+				"desc": "双语教学、知性、温柔女声",
+				"img": "https://res.lang123.top/res/img/BV034_streaming.png",
+				"vid": "BV034_streaming"
+			},
+			{
+				"name": "婉楚",
+				"desc": "有声书朗读、宣传解说年轻女声、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV113_streaming.png",
+				"vid": "BV113_streaming"
+			},
+			{
+				"name": "婉雪",
+				"desc": "有声书朗读、沉稳女声、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV115_streaming.png",
+				"vid": "BV115_streaming"
+			},
+			{
+				"name": "旭然",
+				"desc": "磁性朗读、有声书、深沉男声、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV701_streaming.png",
+				"vid": "BV701_streaming"
+			},
+			{
+				"name": "旭华",
+				"desc": "有声书朗读、小说朗读温暖男声、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV119_streaming.png",
+				"vid": "BV119_streaming"
+			},
+			{
+				"name": "旭鹏",
+				"desc": "儒雅、沉稳男声、有声阅读、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV102_streaming.png",
+				"vid": "BV102_streaming"
+			},
+			{
+				"name": "旭炀",
+				"desc": "宣传解说、朗读播报通用男声、支持多情感",
+				"img": "https://res.lang123.top/res/img/BV705_streaming.png",
+				"vid": "BV705_streaming"
+			},
+			{
+				"name": "旭辉",
+				"desc": "抖音小哥、剪映同款、阅读宣传、朗读播报男声",
+				"img": "https://res.lang123.top/res/img/BV002_streaming.png",
+				"vid": "BV002_streaming"
+			},
+			{
+				"name": "旭阳",
+				"desc": "双语教学、知性、温暖男声",
+				"img": "https://res.lang123.top/res/img/BV033_streaming.png",
+				"vid": "BV033_streaming"
+			},
+			{
+				"name": "旭光",
+				"desc": "视频配音、阅读朗诵、宣传解说、阳光清脆男声",
+				"img": "https://res.lang123.top/res/img/BV056_streaming.png",
+				"vid": "BV056_streaming"
+			},
+			{
+				"name": "旭萌",
+				"desc": "豆包同款、热门声音、奶气萌娃、官方授权",
+				"img": "https://res.lang123.top/res/img/BV051_streaming.png",
+				"vid": "BV051_streaming"
+			},
+			{
+				"name": "智逍遥",
+				"desc": "旁对白阅读",
+				"img": "https://res.lang123.top/res/img/moqingyang_meet_24k.jpeg",
+				"vid": "ten_10510000"
+			},
+			{
+				"name": "智逍遥Pro",
+				"desc": "专业说书人、旁白解说",
+				"img": "https://res.lang123.top/res/img/moqingyang_meet_24k.jpeg",
+				"vid": "ten_100510000"
+			},
+			{
+				"name": "智瑜",
+				"desc": "情感女声",
+				"img": "https://res.lang123.top/res/img/moyunyan_meet_24k.jpeg",
+				"vid": "ten_1001"
+			},
+			{
+				"name": "智瑜Pro",
+				"desc": "优雅知性姐姐、优雅从容",
+				"img": "https://res.lang123.top/res/img/moyunyan_meet_24k.jpeg",
+				"vid": "ten_101001"
+			},
+			{
+				"name": "智聆",
+				"desc": "通用女声",
+				"img": "https://res.lang123.top/res/img/moxinyu_meet_24k.png",
+				"vid": "ten_1002"
+			},
+			{
+				"name": "智聆Pro",
+				"desc": "亲切大方姐姐、亲切女声",
+				"img": "https://res.lang123.top/res/img/moxinyu_meet_24k.png",
+				"vid": "ten_101002"
+			},
+			{
+				"name": "智美",
+				"desc": "客服女声",
+				"img": "https://res.lang123.top/res/img/molingsha_meet_24k.png",
+				"vid": "ten_1003"
+			},
+			{
+				"name": "智美Pro",
+				"desc": "客服女声",
+				"img": "https://res.lang123.top/res/img/molingsha_meet_24k.png",
+				"vid": "ten_101003"
+			},
+			{
+				"name": "智云",
+				"desc": "通用男声",
+				"img": "https://res.lang123.top/res/img/mohouyuan_meet_24k.jpeg",
+				"vid": "ten_1004"
+			},
+			{
+				"name": "智云Pro",
+				"desc": "阅读男声",
+				"img": "https://res.lang123.top/res/img/mohouyuan_meet_24k.jpeg",
+				"vid": "ten_101004"
+			},
+			{
+				"name": "智莉",
+				"desc": "通用女声",
+				"img": "https://res.lang123.top/res/img/BV113_streaming.png",
+				"vid": "ten_1005"
+			},
+			{
+				"name": "智莉Pro",
+				"desc": "阅读女声",
+				"img": "https://res.lang123.top/res/img/BV113_streaming.png",
+				"vid": "ten_101005"
+			},
+			{
+				"name": "智娜",
+				"desc": "客服女声",
+				"img": "https://res.lang123.top/res/img/molinglong_meet_24k.png",
+				"vid": "ten_1007"
+			},
+			{
+				"name": "智娜Pro",
+				"desc": "客服女声、自然大方",
+				"img": "https://res.lang123.top/res/img/molinglong_meet_24k.png",
+				"vid": "ten_101007"
+			},
+			{
+				"name": "智琪",
+				"desc": "客服女声",
+				"img": "https://res.lang123.top/res/img/moguimei_meet_24k.jpeg",
+				"vid": "ten_1008"
+			},
+			{
+				"name": "智琪Pro",
+				"desc": "甜美客服姐姐、甜美亲切",
+				"img": "https://res.lang123.top/res/img/moguimei_meet_24k.jpeg",
+				"vid": "ten_101008"
+			},
+			{
+				"name": "智芸",
+				"desc": "知性女声",
+				"img": "https://res.lang123.top/res/img/mokeke_meet_24k.jpeg",
+				"vid": "ten_1009"
+			},
+			{
+				"name": "智芸Pro",
+				"desc": "阅读女声、知性女声",
+				"img": "https://res.lang123.top/res/img/mokeke_meet_24k.jpeg",
+				"vid": "ten_101009"
+			},
+			{
+				"name": "智华",
+				"desc": "通用男声",
+				"img": "https://res.lang123.top/res/img/zhinengrengongkaizi_meet_24k.png",
+				"vid": "ten_1010"
+			},
+			{
+				"name": "智华Pro",
+				"desc": "通用男声、磁性男声",
+				"img": "https://res.lang123.top/res/img/zhinengrengongkaizi_meet_24k.png",
+				"vid": "ten_101010"
+			},
+			{
+				"name": "智蓉",
+				"desc": "情感女声",
+				"img": "https://res.lang123.top/res/img/mowanqing_meet_24k.jpeg",
+				"vid": "ten_1017"
+			},
+			{
+				"name": "智蓉Pro",
+				"desc": "阅读女声、深情女声",
+				"img": "https://res.lang123.top/res/img/mowanqing_meet_24k.jpeg",
+				"vid": "ten_101017"
+			},
+			{
+				"name": "智靖",
+				"desc": "情感男声",
+				"img": "https://res.lang123.top/res/img/BV002_streaming.png",
+				"vid": "ten_1018"
+			},
+			{
+				"name": "智靖Pro",
+				"desc": "深情大叔、低沉磁性,电影配音",
+				"img": "https://res.lang123.top/res/img/BV002_streaming.png",
+				"vid": "ten_101018"
+			},
+			{
+				"name": "智言",
+				"desc": "智能小助手、助手女声",
+				"img": "https://res.lang123.top/res/img/mohuanxi_meet_24k.jpeg",
+				"vid": "ten_101006"
+			},
+			{
+				"name": "智燕",
+				"desc": "有气场女播音员、铿锵有力",
+				"img": "https://res.lang123.top/res/img/molingyanv1_meet_24k.png",
+				"vid": "ten_101011"
+			},
+			{
+				"name": "智丹",
+				"desc": "资讯播报员、亲切细腻",
+				"img": "https://res.lang123.top/res/img/moxiaorui_meet_24k.jpeg",
+				"vid": "ten_101012"
+			},
+			{
+				"name": "智辉",
+				"desc": "新闻播音员",
+				"img": "https://res.lang123.top/res/img/moyunlei_meet_24k.jpeg",
+				"vid": "ten_101013"
+			},
+			{
+				"name": "智宁",
+				"desc": "资讯播音员、资讯男声",
+				"img": "https://res.lang123.top/res/img/mojunkai_meet_24k.jpeg",
+				"vid": "ten_101014"
+			},
+			{
+				"name": "智萌",
+				"desc": "纯真小朋友、儿童男声",
+				"img": "https://res.lang123.top/res/img/BV051_streaming.png",
+				"vid": "ten_101015"
+			},
+			{
+				"name": "智甜",
+				"desc": "可爱萌宝宝、儿童女声",
+				"img": "https://res.lang123.top/res/img/f524d7d6-ad8e-464d-a338-b3cb58133788.png",
+				"vid": "ten_101016"
+			},
+			{
+				"name": "智彤",
+				"desc": "时尚粤语姐姐、粤语女声",
+				"img": "https://res.lang123.top/res/img/BV007_streaming.png",
+				"vid": "ten_101019"
+			},
+			{
+				"name": "智刚",
+				"desc": "新闻播音员、磅礴厚重",
+				"img": "https://res.lang123.top/res/img/moqingyang_meet_24k.jpeg",
+				"vid": "ten_101020"
+			},
+			{
+				"name": "智瑞",
+				"desc": "新闻播音员、磁性沉稳",
+				"img": "https://res.lang123.top/res/img/momengxin_meet_24k.jpeg",
+				"vid": "ten_101021"
+			},
+			{
+				"name": "智虹",
+				"desc": "经典新闻播音员、新闻女声",
+				"img": "https://res.lang123.top/res/img/moxiaowei_meet_24k.jpeg",
+				"vid": "ten_101022"
+			},
+			{
+				"name": "智萱",
+				"desc": "亲切姐姐、自然女声",
+				"img": "https://res.lang123.top/res/img/moaya_meet_24k.png",
+				"vid": "ten_101023"
+			},
+			{
+				"name": "智皓",
+				"desc": "阅读男声、聊天男声,自然男声",
+				"img": "https://res.lang123.top/res/img/modongye_meet_24k.png",
+				"vid": "ten_101024"
+			},
+			{
+				"name": "智薇",
+				"desc": "邻家姑娘、自然大方",
+				"img": "https://res.lang123.top/res/img/mowanqing_meet_24k.jpeg",
+				"vid": "ten_101025"
+			},
+			{
+				"name": "智希",
+				"desc": "甜美小助手、助手女声",
+				"img": "https://res.lang123.top/res/img/moaya_meet_24k.png",
+				"vid": "ten_101026"
+			},
+			{
+				"name": "智梅",
+				"desc": "通用女声、柔美大方",
+				"img": "https://res.lang123.top/res/img/mojialing_meet_24k.jpeg",
+				"vid": "ten_101027"
+			},
+			{
+				"name": "智洁",
+				"desc": "通用女声、青春活力",
+				"img": "https://res.lang123.top/res/img/moxiaorui_meet_24k.jpeg",
+				"vid": "ten_101028"
+			},
+			{
+				"name": "智凯",
+				"desc": "纪录片配音员、人文男声",
+				"img": "https://res.lang123.top/res/img/moyangming_meet_24k.jpeg",
+				"vid": "ten_101029"
+			},
+			{
+				"name": "智柯",
+				"desc": "通用男声、自然轻快",
+				"img": "https://res.lang123.top/res/img/mojunyi_meet_24k.jpeg",
+				"vid": "ten_101030"
+			},
+			{
+				"name": "智奎",
+				"desc": "专业播音员、磁性男声",
+				"img": "https://res.lang123.top/res/img/moxiaole_meet_24k.jpg",
+				"vid": "ten_101031"
+			},
+			{
+				"name": "智芳",
+				"desc": "通用女声、自然舒适",
+				"img": "https://res.lang123.top/res/img/moyuyao_meet_24k.jpeg",
+				"vid": "ten_101032"
+			},
+			{
+				"name": "智蓓",
+				"desc": "客服女声",
+				"img": "https://res.lang123.top/res/img/moxiaowei_meet_24k.jpeg",
+				"vid": "ten_101033"
+			},
+			{
+				"name": "智佳",
+				"desc": "客服女声、温柔女声",
+				"img": "https://res.lang123.top/res/img/moyuyao_meet_24k.jpeg",
+				"vid": "ten_101081"
+			},
+			{
+				"name": "智英",
+				"desc": "客服女声、严肃女声",
+				"img": "https://res.lang123.top/res/img/moguimei_meet_24k.jpeg",
+				"vid": "ten_101080"
+			},
+			{
+				"name": "智莲",
+				"desc": "时尚甜美小姐姐、甜美女声",
+				"img": "https://res.lang123.top/res/img/moxiaotuan_meet_24k.jpeg",
+				"vid": "ten_101034"
+			},
+			{
+				"name": "智依",
+				"desc": "通用女声、知性女声",
+				"img": "https://res.lang123.top/res/img/mojialing_meet_24k.jpeg",
+				"vid": "ten_101035"
+			},
+			{
+				"name": "智川",
+				"desc": "四川辣妹子、四川女声",
+				"img": "https://res.lang123.top/res/img/moxiaoman_meet_24k.jpeg",
+				"vid": "ten_101040"
+			},
+			{
+				"name": "智味",
+				"desc": "美食评论家、美食男声",
+				"img": "https://res.lang123.top/res/img/moqingshu_meet_24k.jpeg",
+				"vid": "ten_101052"
+			},
+			{
+				"name": "智方",
+				"desc": "沉稳解说员、沉稳磁性",
+				"img": "https://res.lang123.top/res/img/monuoyan_meet_24k.jpeg",
+				"vid": "ten_101053"
+			},
+			{
+				"name": "智友",
+				"desc": "解说小哥哥、轻快男声,特色声音",
+				"img": "https://res.lang123.top/res/img/moxiaole_meet_24k.jpg",
+				"vid": "ten_101054"
+			},
+			{
+				"name": "智付",
+				"desc": "智能收银员、支付播报,特色声音",
+				"img": "https://res.lang123.top/res/img/molingyu_meet_24k.jpeg",
+				"vid": "ten_101055"
+			},
+			{
+				"name": "智林",
+				"desc": "东北幽默小哥、东北男声",
+				"img": "https://res.lang123.top/res/img/momingzhi_meet_24k.jpeg",
+				"vid": "ten_101056"
+			},
+			{
+				"name": "爱小广",
+				"desc": "多情感男声",
+				"img": "https://res.lang123.top/res/img/modisheng_meet_24k.jpeg",
+				"vid": "ten_301000"
+			},
+			{
+				"name": "爱小栋",
+				"desc": "多情感男声",
+				"img": "https://res.lang123.top/res/img/moyangming_meet_24k.jpeg",
+				"vid": "ten_301001"
+			},
+			{
+				"name": "爱小海",
+				"desc": "暖心小哥哥、舒适男声",
+				"img": "https://res.lang123.top/res/img/momingzhi_meet_24k.jpeg",
+				"vid": "ten_301002"
+			},
+			{
+				"name": "爱小霞",
+				"desc": "多情感女声",
+				"img": "https://res.lang123.top/res/img/modaji_meet_24k.jpeg",
+				"vid": "ten_301003"
+			},
+			{
+				"name": "爱小玲",
+				"desc": "多情感女声",
+				"img": "https://res.lang123.top/res/img/mojialing_meet_24k.jpeg",
+				"vid": "ten_301004"
+			},
+			{
+				"name": "爱小章",
+				"desc": "资讯播音员、活力男声",
+				"img": "https://res.lang123.top/res/img/kuankuan_meet_24k.jpeg",
+				"vid": "ten_301005"
+			},
+			{
+				"name": "爱小峰",
+				"desc": "多情感男声",
+				"img": "https://res.lang123.top/res/img/molingluo_meet_24k.png",
+				"vid": "ten_301006"
+			},
+			{
+				"name": "爱小亮",
+				"desc": "温情哥哥",
+				"img": "https://res.lang123.top/res/img/momingzhi_meet_24k.jpeg",
+				"vid": "ten_301007"
+			},
+			{
+				"name": "爱小博",
+				"desc": "多情感男声",
+				"img": "https://res.lang123.top/res/img/molingluo_meet_24k.png",
+				"vid": "ten_301008"
+			},
+			{
+				"name": "爱小芸",
+				"desc": "阅读女声、婉约女声",
+				"img": "https://res.lang123.top/res/img/moyuji_meet_24k.jpeg",
+				"vid": "ten_301009"
+			},
+			{
+				"name": "爱小秋",
+				"desc": "多情感女声",
+				"img": "https://res.lang123.top/res/img/moxiaoman_meet_24k.jpeg",
+				"vid": "ten_301010"
+			},
+			{
+				"name": "爱小芳",
+				"desc": "多情感女声",
+				"img": "https://res.lang123.top/res/img/moxiaoyun_meet_24k.jpeg",
+				"vid": "ten_301011"
+			},
+			{
+				"name": "爱小琴",
+				"desc": "多情感女声、亲切女声",
+				"img": "https://res.lang123.top/res/img/moliping_meet_24k.jpeg",
+				"vid": "ten_301012"
+			},
+			{
+				"name": "爱小康",
+				"desc": "阳光小哥哥、活力男声",
+				"img": "https://res.lang123.top/res/img/modisheng_meet_24k.jpeg",
+				"vid": "ten_301013"
+			},
+			{
+				"name": "爱小辉",
+				"desc": "多情感男声、磁性男声",
+				"img": "https://res.lang123.top/res/img/moxiaose_meet_24k.jpeg",
+				"vid": "ten_301014"
+			},
+			{
+				"name": "爱小璐",
+				"desc": "活力小姐姐、活力自然",
+				"img": "https://res.lang123.top/res/img/mobailing_meet_24k.png",
+				"vid": "ten_301015"
+			},
+			{
+				"name": "爱小阳",
+				"desc": "资讯播音员、磁性男声",
+				"img": "https://res.lang123.top/res/img/molingluo_meet_24k.png",
+				"vid": "ten_301016"
+			},
+			{
+				"name": "爱小泉",
+				"desc": "资讯播音员",
+				"img": "https://res.lang123.top/res/img/moguishu_meet_24k.png",
+				"vid": "ten_301017"
+			},
+			{
+				"name": "爱小昆",
+				"desc": "多情感男声",
+				"img": "https://res.lang123.top/res/img/modaxing_meet_24k.jpeg",
+				"vid": "ten_301018"
+			},
+			{
+				"name": "爱小诚",
+				"desc": "深情少年、深情男声",
+				"img": "https://res.lang123.top/res/img/moyangming_meet_24k.jpeg",
+				"vid": "ten_301019"
+			},
+			{
+				"name": "爱小岚",
+				"desc": "多情感女声",
+				"img": "https://res.lang123.top/res/img/momeiduo_meet_24k.jpeg",
+				"vid": "ten_301020"
+			},
+			{
+				"name": "爱小茹",
+				"desc": "阅读女声",
+				"img": "https://res.lang123.top/res/img/moyuqingt1_meet_24k.jpeg",
+				"vid": "ten_301021"
+			},
+			{
+				"name": "爱小蓉",
+				"desc": "多情感女声、舒缓女声",
+				"img": "https://res.lang123.top/res/img/mojialing_meet_24k.jpeg",
+				"vid": "ten_301022"
+			},
+			{
+				"name": "爱小燕",
+				"desc": "客服女声",
+				"img": "https://res.lang123.top/res/img/moyuji_meet_24k.jpeg",
+				"vid": "ten_301023"
+			},
+			{
+				"name": "爱小莲",
+				"desc": "知心姐姐",
+				"img": "https://res.lang123.top/res/img/monihong_meet_24k.png",
+				"vid": "ten_301024"
+			},
+			{
+				"name": "爱小武",
+				"desc": "资讯播音员",
+				"img": "https://res.lang123.top/res/img/moxiaowan_meet_24k.jpeg",
+				"vid": "ten_301025"
+			},
+			{
+				"name": "爱小雪",
+				"desc": "亲切姐姐",
+				"img": "https://res.lang123.top/res/img/modaji_meet_24k.jpeg",
+				"vid": "ten_301026"
+			},
+			{
+				"name": "爱小媛",
+				"desc": "多情感女声、大方女声",
+				"img": "https://res.lang123.top/res/img/moxiaoqiaonv_meet_24k.jpeg",
+				"vid": "ten_301027"
+			},
+			{
+				"name": "爱小娴",
+				"desc": "通用女声",
+				"img": "https://res.lang123.top/res/img/moxiaoqiaonv_meet_24k.jpeg",
+				"vid": "ten_301028"
+			},
+			{
+				"name": "爱小涛",
+				"desc": "多情感男声",
+				"img": "https://res.lang123.top/res/img/motailong_meet_24k.jpeg",
+				"vid": "ten_301029"
+			},
+			{
+				"name": "爱小溪",
+				"desc": "客服女声、自然大方,年轻活力",
+				"img": "https://res.lang123.top/res/img/xiaomansha_meet_24k.jpeg",
+				"vid": "ten_301030"
+			},
+			{
+				"name": "爱小溪Ultra",
+				"desc": "对话女声、伶俐女声",
+				"img": "https://res.lang123.top/res/img/xiaomansha_meet_24k.jpeg",
+				"vid": "ten_601000"
+			},
+			{
+				"name": "爱小树",
+				"desc": "多情感男声、自然男声",
+				"img": "https://res.lang123.top/res/img/moqisong_meet_24k.png",
+				"vid": "ten_301031"
+			},
+			{
+				"name": "爱小树Ultra",
+				"desc": "资讯男声、儒雅男声",
+				"img": "https://res.lang123.top/res/img/moqisong_meet_24k.png",
+				"vid": "ten_601004"
+			},
+			{
+				"name": "爱小荷",
+				"desc": "多情感女声、自然女声",
+				"img": "https://res.lang123.top/res/img/moduidui_meet_24k.png",
+				"vid": "ten_301032"
+			},
+			{
+				"name": "爱小荷Ultra",
+				"desc": "阅读女声、气质女声",
+				"img": "https://res.lang123.top/res/img/moduidui_meet_24k.png",
+				"vid": "ten_601003"
+			},
+			{
+				"name": "爱小叶",
+				"desc": "多情感女声、自然女声",
+				"img": "https://res.lang123.top/res/img/xiaoyan_meet_24k.png",
+				"vid": "ten_301033"
+			},
+			{
+				"name": "爱小叶Ultra",
+				"desc": "对话女声、阳光女孩",
+				"img": "https://res.lang123.top/res/img/xiaoyan_meet_24k.png",
+				"vid": "ten_601007"
+			},
+			{
+				"name": "爱小杭",
+				"desc": "多情感男声、自然男声",
+				"img": "https://res.lang123.top/res/img/motianqi_meet_24k.jpeg",
+				"vid": "ten_301034"
+			},
+			{
+				"name": "爱小梅",
+				"desc": "多情感女声、自然女声",
+				"img": "https://res.lang123.top/res/img/moxiaoqiao_meet_24k.jpeg",
+				"vid": "ten_301035"
+			},
+			{
+				"name": "爱小柯",
+				"desc": "低沉慵懒小哥、磁性男声",
+				"img": "https://res.lang123.top/res/img/mojiaxuan_meet_24k.jpeg",
+				"vid": "ten_301036"
+			},
+			{
+				"name": "爱小静",
+				"desc": "对话女声、甜美年轻,自然舒适",
+				"img": "https://res.lang123.top/res/img/mobailing_meet_24k.png",
+				"vid": "ten_301037"
+			},
+			{
+				"name": "爱小静Ultra",
+				"desc": "对话女声、腼腆女孩",
+				"img": "https://res.lang123.top/res/img/mobailing_meet_24k.png",
+				"vid": "ten_601005"
+			},
+			{
+				"name": "爱小桃",
+				"desc": "自然大方女声、优雅百变",
+				"img": "https://res.lang123.top/res/img/moxiaoqiaonv_meet_24k.jpeg",
+				"vid": "ten_301038"
+			},
+			{
+				"name": "爱小萌",
+				"desc": "对话女声",
+				"img": "https://res.lang123.top/res/img/moyimeng_meet_24k.jpeg",
+				"vid": "ten_301039"
+			},
+			{
+				"name": "爱小星",
+				"desc": "活力解说男声、体育达人",
+				"img": "https://res.lang123.top/res/img/moyuanqiao_meet_24k.jpeg",
+				"vid": "ten_301040"
+			},
+			{
+				"name": "爱小菲",
+				"desc": "自然对话女声、亲和女声",
+				"img": "https://res.lang123.top/res/img/lanxin_meet_24k.png",
+				"vid": "ten_301041"
+			},
+			{
+				"name": "智斌Ultra",
+				"desc": "阅读男声、磁性男声",
+				"img": "https://res.lang123.top/res/img/moyuhao_meet_24k.png",
+				"vid": "ten_501000"
+			},
+			{
+				"name": "智兰Ultra",
+				"desc": "资讯女声、轻快女声",
+				"img": "https://res.lang123.top/res/img/mopeiqi_meet_24k.jpeg",
+				"vid": "ten_501001"
+			},
+			{
+				"name": "智菊Ultra",
+				"desc": "阅读女声、端庄大方",
+				"img": "https://res.lang123.top/res/img/moxiaotuan_meet_24k.jpeg",
+				"vid": "ten_501002"
+			},
+			{
+				"name": "智宇Ultra",
+				"desc": "阅读男声、成熟大叔",
+				"img": "https://res.lang123.top/res/img/mobotong_meet_24k.jpeg",
+				"vid": "ten_501003"
+			},
+			{
+				"name": "月华Ultra",
+				"desc": "对话女声、气质聪慧",
+				"img": "https://res.lang123.top/res/img/moxiaoman_meet_24k.jpeg",
+				"vid": "ten_501004"
+			},
+			{
+				"name": "飞镜Ultra",
+				"desc": "对话男声、温和男声",
+				"img": "https://res.lang123.top/res/img/moyingjun_meet_24k.jpeg",
+				"vid": "ten_501005"
+			},
+			{
+				"name": "千嶂Ultra",
+				"desc": "对话男声、沉稳大气",
+				"img": "https://res.lang123.top/res/img/moqingyang_meet_24k.jpeg",
+				"vid": "ten_501006"
+			},
+			{
+				"name": "浅草Ultra",
+				"desc": "对话男声、青春男声",
+				"img": "https://res.lang123.top/res/img/moyingjun_meet_24k.jpeg",
+				"vid": "ten_501007"
+			},
+			{
+				"name": "爱小洛Ultra",
+				"desc": "阅读女声、纯真少女",
+				"img": "https://res.lang123.top/res/img/molinghua_meet_24k.jpeg",
+				"vid": "ten_601001"
+			},
+			{
+				"name": "爱小辰Ultra",
+				"desc": "对话男声、清朗男声",
+				"img": "https://res.lang123.top/res/img/mowangshu_meet_24k.png",
+				"vid": "ten_601002"
+			},
+			{
+				"name": "爱小耀Ultra",
+				"desc": "阅读男声、沉稳男声",
+				"img": "https://res.lang123.top/res/img/moqisong_meet_24k.png",
+				"vid": "ten_601006"
+			},
+			{
+				"name": "爱小豪Ultra",
+				"desc": "对话男声、霸道高冷",
+				"img": "https://res.lang123.top/res/img/moguishu_meet_24k.png",
+				"vid": "ten_601008"
+			},
+			{
+				"name": "爱小芊Ultra",
+				"desc": "对话女声、清纯灵巧",
+				"img": "https://res.lang123.top/res/img/miaomiao_meet_24k.png",
+				"vid": "ten_601009"
+			},
+			{
+				"name": "爱小娇Ultra",
+				"desc": "对话女声、娇媚女声",
+				"img": "https://res.lang123.top/res/img/arou_meet_24k.png",
+				"vid": "ten_601010"
+			},
+			{
+				"name": "爱小川Ultra",
+				"desc": "对话男声、活力少年",
+				"img": "https://res.lang123.top/res/img/boguang_meet_24k.jpg",
+				"vid": "ten_601011"
+			},
+			{
+				"name": "爱小璟Ultra",
+				"desc": "特色女声、可爱萝莉",
+				"img": "https://res.lang123.top/res/img/weiwei_meet_24k.png",
+				"vid": "ten_601012"
+			},
+			{
+				"name": "爱小伊Ultra",
+				"desc": "阅读女声、知性姐姐",
+				"img": "https://res.lang123.top/res/img/moruyue_meet_24k.jpeg",
+				"vid": "ten_601013"
+			},
+			{
+				"name": "爱小简Ultra",
+				"desc": "对话男声、清爽学生",
+				"img": "https://res.lang123.top/res/img/moziying_meet_24k.png",
+				"vid": "ten_601014"
+			},
+			{
+				"name": "魔青扬",
+				"desc": "磁性浑厚，爽朗动听、直播|助理",
+				"img": "https://res.lang123.top/res/img/moqingyang_meet_24k.jpeg",
+				"vid": "moqingyang_meet_24k"
+			},
+			{
+				"name": "魔欣羽",
+				"desc": "温柔知性，温婉大方、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moxinyu_meet_24k.png",
+				"vid": "moxinyu_meet_24k"
+			},
+			{
+				"name": "魔小七",
+				"desc": "温柔细腻，自然动听、美食|直播",
+				"img": "https://res.lang123.top/res/img/moxiaoqi_meet_24k.jpeg",
+				"vid": "moxiaoqi_meet_24k"
+			},
+			{
+				"name": "魔玲珑",
+				"desc": "成熟温柔，悦耳动听、美食|助理",
+				"img": "https://res.lang123.top/res/img/molinglong_meet_24k.png",
+				"vid": "molinglong_meet_24k"
+			},
+			{
+				"name": "魔青云",
+				"desc": "磁性浑厚，自然爽朗、直播|助理",
+				"img": "https://res.lang123.top/res/img/moqingyun_meet_24k.jpeg",
+				"vid": "moqingyun_meet_24k"
+			},
+			{
+				"name": "魔小团",
+				"desc": "团团音色，诙谐幽默、直播|游戏",
+				"img": "https://res.lang123.top/res/img/moxiaotuan_meet_24k.jpeg",
+				"vid": "moxiaotuan_meet_24k"
+			},
+			{
+				"name": "魔候渊",
+				"desc": "真实自然，流畅动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mohouyuan_meet_24k.jpeg",
+				"vid": "mohouyuan_meet_24k"
+			},
+			{
+				"name": "魔春莹",
+				"desc": "声音洪亮，知性大方、直播|资讯",
+				"img": "https://res.lang123.top/res/img/mochunyingv1_meet_24k.jpeg",
+				"vid": "mochunyingv1_meet_24k"
+			},
+			{
+				"name": "魔鹤兰",
+				"desc": "声音洪亮，知性大方、情感|朗诵",
+				"img": "https://res.lang123.top/res/img/mohelan_meet_24k.jpeg",
+				"vid": "mohelan_meet_24k"
+			},
+			{
+				"name": "魔阳明",
+				"desc": "真实自然，朗朗动听、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/moyangming_meet_24k.jpeg",
+				"vid": "moyangming_meet_24k"
+			},
+			{
+				"name": "魔瑞英",
+				"desc": "成熟知性，自然流畅、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moruiying_meet_24k.jpeg",
+				"vid": "moruiying_meet_24k"
+			},
+			{
+				"name": "魔朗朗",
+				"desc": "活力男声，自然流畅、美食|直播",
+				"img": "https://res.lang123.top/res/img/molanglang_meet_24k.jpeg",
+				"vid": "molanglang_meet_24k"
+			},
+			{
+				"name": "魔丽媛",
+				"desc": "温柔知性，温婉大方、直播|助理",
+				"img": "https://res.lang123.top/res/img/moliyuan_meet_24k.png",
+				"vid": "moliyuan_meet_24k"
+			},
+			{
+				"name": "魔云烟",
+				"desc": "温柔甜美，自然动听、直播|助理",
+				"img": "https://res.lang123.top/res/img/moyunyan_meet_24k.jpeg",
+				"vid": "moyunyan_meet_24k"
+			},
+			{
+				"name": "魔书馨",
+				"desc": "成熟知性，温婉大方、助理|资讯",
+				"img": "https://res.lang123.top/res/img/moshuxin_meet_24k@chat.jpeg",
+				"vid": "moshuxin_meet_24k@chat"
+			},
+			{
+				"name": "静公子",
+				"desc": "元气少女，乖甜可爱、资讯|影视",
+				"img": "https://res.lang123.top/res/img/molingsha_meet_24k.png",
+				"vid": "molingsha_meet_24k"
+			},
+			{
+				"name": "魔墨渊",
+				"desc": "磁性浑厚，爽朗动听、体育|影视",
+				"img": "https://res.lang123.top/res/img/momoyuan_meet_24k.jpeg",
+				"vid": "momoyuan_meet_24k"
+			},
+			{
+				"name": "魔孟婆",
+				"desc": "和蔼慈祥，温和自然、影视|情感",
+				"img": "https://res.lang123.top/res/img/momengpo_meet_24k.jpeg",
+				"vid": "momengpo_meet_24k"
+			},
+			{
+				"name": "魔章鱼",
+				"desc": "真实自然，朗朗动听、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/mozhangyu_meet_24k.jpeg",
+				"vid": "mozhangyu_meet_24k"
+			},
+			{
+				"name": "魔欢喜",
+				"desc": "稚嫩可爱，童真无邪、游戏|动漫",
+				"img": "https://res.lang123.top/res/img/mohuanxi_meet_24k.jpeg",
+				"vid": "mohuanxi_meet_24k"
+			},
+			{
+				"name": "魔桂梅",
+				"desc": "成熟知性，温婉大方、直播|有声书",
+				"img": "https://res.lang123.top/res/img/moguimei_meet_24k.jpeg",
+				"vid": "moguimei_meet_24k"
+			},
+			{
+				"name": "魔振华",
+				"desc": "磁性沉着，娓娓动听、娱乐|有声书",
+				"img": "https://res.lang123.top/res/img/mozhenhuav1_meet_24k.jpeg",
+				"vid": "mozhenhuav1_meet_24k"
+			},
+			{
+				"name": "魔可可",
+				"desc": "元气少女，乖甜可爱 、直播|娱乐",
+				"img": "https://res.lang123.top/res/img/mokeke_meet_24k.jpeg",
+				"vid": "mokeke_meet_24k"
+			},
+			{
+				"name": "魔灵雁",
+				"desc": "温柔大姐，朴素大方、直播|广告",
+				"img": "https://res.lang123.top/res/img/molingyanv1_meet_24k.png",
+				"vid": "molingyanv1_meet_24k"
+			},
+			{
+				"name": "魔青宏",
+				"desc": "磁性浑厚，爽朗动听、直播|广告",
+				"img": "https://res.lang123.top/res/img/zhinengrengongkaizi_meet_24k.png",
+				"vid": "zhinengrengongkaizi_meet_24k"
+			},
+			{
+				"name": "魔晓蕊",
+				"desc": "魅力女声，专业客服、助理|情感",
+				"img": "https://res.lang123.top/res/img/moxiaorui_meet_24k.jpeg",
+				"vid": "moxiaorui_meet_24k"
+			},
+			{
+				"name": "魔嘉琦",
+				"desc": "磁性浑厚，爽朗动听、直播|助理",
+				"img": "https://res.lang123.top/res/img/mojiaqi_meet_24k.jpeg",
+				"vid": "mojiaqi_meet_24k"
+			},
+			{
+				"name": "魔妍希",
+				"desc": "真实自然，朗朗动听",
+				"img": "https://res.lang123.top/res/img/moyanxi_meet_24k.jpeg",
+				"vid": "moyanxi_meet_24k"
+			},
+			{
+				"name": "魔云雷",
+				"desc": "磁性温柔，爽朗动听、娱乐|情感",
+				"img": "https://res.lang123.top/res/img/moyunlei_meet_24k.jpeg",
+				"vid": "moyunlei_meet_24k"
+			},
+			{
+				"name": "魔俊凯",
+				"desc": "磁性浑厚，爽朗动听",
+				"img": "https://res.lang123.top/res/img/mojunkai_meet_24k.jpeg",
+				"vid": "mojunkai_meet_24k"
+			},
+			{
+				"name": "魔婉清",
+				"desc": "温柔甜美，舒缓悦耳、资讯|情感",
+				"img": "https://res.lang123.top/res/img/mowanqing_meet_24k.jpeg",
+				"vid": "mowanqing_meet_24k"
+			},
+			{
+				"name": "魔丽莉",
+				"desc": "甜美可爱，自然流畅、游戏|动漫",
+				"img": "https://res.lang123.top/res/img/moliliv1_meet_24k.png",
+				"vid": "moliliv1_meet_24k"
+			},
+			{
+				"name": "魔青桔",
+				"desc": "温柔知性，温婉大方、直播|助理",
+				"img": "https://res.lang123.top/res/img/moqingju_meet_24k.jpeg",
+				"vid": "moqingju_meet_24k"
+			},
+			{
+				"name": "魔北丐",
+				"desc": "磁性浑厚，铿锵有力、体育|影视",
+				"img": "https://res.lang123.top/res/img/mobeigai_meet_24k.jpeg",
+				"vid": "mobeigai_meet_24k"
+			},
+			{
+				"name": "魔文楷",
+				"desc": "磁性浑厚，自然动听 、影视",
+				"img": "https://res.lang123.top/res/img/mowenkai_meet_24k.jpeg",
+				"vid": "mowenkai_meet_24k"
+			},
+			{
+				"name": "魔萌新",
+				"desc": "稚嫩可爱，童真无邪、游戏|动漫",
+				"img": "https://res.lang123.top/res/img/momengxin_meet_24k.jpeg",
+				"vid": "momengxin_meet_24k"
+			},
+			{
+				"name": "魔小唯",
+				"desc": "成熟稳重，自然流畅、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moxiaowei_meet_24k.jpeg",
+				"vid": "moxiaowei_meet_24k"
+			},
+			{
+				"name": "魔少龙",
+				"desc": "磁性浑厚，爽朗动听、助理|影视",
+				"img": "https://res.lang123.top/res/img/moshaolong_meet_24k.png",
+				"vid": "moshaolong_meet_24k"
+			},
+			{
+				"name": "魔阿雅",
+				"desc": "成熟稳重，自然流畅",
+				"img": "https://res.lang123.top/res/img/moaya_meet_24k.png",
+				"vid": "moaya_meet_24k"
+			},
+			{
+				"name": "魔冬野",
+				"desc": "磁性浑厚，自然动听、影视|广告",
+				"img": "https://res.lang123.top/res/img/modongye_meet_24k.png",
+				"vid": "modongye_meet_24k"
+			},
+			{
+				"name": "魔嘉玲",
+				"desc": "腔调独特，别有风味 、美食|娱乐",
+				"img": "https://res.lang123.top/res/img/mojialing_meet_24k.jpeg",
+				"vid": "mojialing_meet_24k"
+			},
+			{
+				"name": "魔巧",
+				"desc": "真实自然，朗朗动听 、影视|广告",
+				"img": "https://res.lang123.top/res/img/moqiao_meet_24k.png",
+				"vid": "moqiao_meet_24k"
+			},
+			{
+				"name": "魔梦瑶",
+				"desc": "温柔甜美，自然动听、直播|游戏",
+				"img": "https://res.lang123.top/res/img/momengyao_meet_24k.png",
+				"vid": "momengyao_meet_24k"
+			},
+			{
+				"name": "慕容",
+				"desc": "成熟浑厚，朗朗动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/murong_meet_24k.jpg",
+				"vid": "murong_meet_24k"
+			},
+			{
+				"name": "魔俊逸",
+				"desc": "磁性醇厚，郎朗动听、美食|影视",
+				"img": "https://res.lang123.top/res/img/mojunyi_meet_24k.jpeg",
+				"vid": "mojunyi_meet_24k"
+			},
+			{
+				"name": "魔雨瑶",
+				"desc": "温柔甜美，自然动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/moyuyao_meet_24k.jpeg",
+				"vid": "moyuyao_meet_24k"
+			},
+			{
+				"name": "魔小乐",
+				"desc": "真实自然，朗朗动听、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/moxiaole_meet_24k.jpg",
+				"vid": "moxiaole_meet_24k"
+			},
+			{
+				"name": "快板大叔",
+				"desc": "和蔼沧桑，温和自然、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/kuaibanxiaoge_meet_24k.png",
+				"vid": "kuaibanxiaoge_meet_24k"
+			},
+			{
+				"name": "魔凌飞",
+				"desc": "磁性浑厚，爽朗动听、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/molingfei_meet_24k.jpeg",
+				"vid": "molingfei_meet_24k"
+			},
+			{
+				"name": "魔凌宇",
+				"desc": "磁性浑厚，爽朗动听 、体育|影视",
+				"img": "https://res.lang123.top/res/img/molingyum_meet_24k.png",
+				"vid": "molingyum_meet_24k"
+			},
+			{
+				"name": "魔吹灯",
+				"desc": "磁性浑厚，爽朗动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mochuideng_meet_24k.jpeg",
+				"vid": "mochuideng_meet_24k"
+			},
+			{
+				"name": "魔宇川",
+				"desc": "温柔少年，自然动听、情感|游戏",
+				"img": "https://res.lang123.top/res/img/moyuchuan_meet_24k.jpeg",
+				"vid": "moyuchuan_meet_24k"
+			},
+			{
+				"name": "魔小蛮",
+				"desc": "精灵可爱，自然动听、美食|资讯",
+				"img": "https://res.lang123.top/res/img/moxiaoman_meet_24k.jpeg",
+				"vid": "moxiaoman_meet_24k"
+			},
+			{
+				"name": "魔青玄",
+				"desc": "清亮悦耳，自然流畅、直播|广告",
+				"img": "https://res.lang123.top/res/img/moqingxuan_meet_24k.png",
+				"vid": "moqingxuan_meet_24k"
+			},
+			{
+				"name": "魔青书",
+				"desc": "磁性浑厚，朗朗动听、美食|影视",
+				"img": "https://res.lang123.top/res/img/moqingshu_meet_24k.jpeg",
+				"vid": "moqingshu_meet_24k"
+			},
+			{
+				"name": "魔诺言",
+				"desc": "游戏解说，自然流畅、游戏",
+				"img": "https://res.lang123.top/res/img/monuoyan_meet_24k.jpeg",
+				"vid": "monuoyan_meet_24k"
+			},
+			{
+				"name": "魔凌玉",
+				"desc": "活泼阳光，魅力四射 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/molingyu_meet_24k.jpeg",
+				"vid": "molingyu_meet_24k"
+			},
+			{
+				"name": "魔水寒",
+				"desc": "精灵古怪，自然动听、影视|动漫",
+				"img": "https://res.lang123.top/res/img/moshuihan_meet_24k.png",
+				"vid": "moshuihan_meet_24k"
+			},
+			{
+				"name": "魔铭智",
+				"desc": "真实自然，朗朗动听 、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/momingzhi_meet_24k.jpeg",
+				"vid": "momingzhi_meet_24k"
+			},
+			{
+				"name": "魔迪生",
+				"desc": "磁性温和，轻快动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/modisheng_meet_24k.jpeg",
+				"vid": "modisheng_meet_24k"
+			},
+			{
+				"name": "魔妲己",
+				"desc": "魅惑妲己，娇软动听、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/modaji_meet_24k.jpeg",
+				"vid": "modaji_meet_24k"
+			},
+			{
+				"name": "魔鹤仙",
+				"desc": "沧桑沙哑，真实自然、影视|情感",
+				"img": "https://res.lang123.top/res/img/mohexian_meet_24k.jpeg",
+				"vid": "mohexian_meet_24k"
+			},
+			{
+				"name": "魔莎莎",
+				"desc": "自然随和，甜美吆喝、美食|资讯",
+				"img": "https://res.lang123.top/res/img/molaojie_meet_24k.png",
+				"vid": "molaojie_meet_24k"
+			},
+			{
+				"name": "魔司马",
+				"desc": "磁性浑厚，爽朗动听 、影视|宣传片",
+				"img": "https://res.lang123.top/res/img/mosima_meet_24k.jpeg",
+				"vid": "mosima_meet_24k"
+			},
+			{
+				"name": "魔鸿儒",
+				"desc": "儒雅温和，自然流畅、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/kuankuan_meet_24k.jpeg",
+				"vid": "kuankuan_meet_24k"
+			},
+			{
+				"name": "魔翎洛",
+				"desc": "稳重磁性，自然动听、资讯|体育",
+				"img": "https://res.lang123.top/res/img/molingluo_meet_24k.png",
+				"vid": "molingluo_meet_24k"
+			},
+			{
+				"name": "魔娱姬",
+				"desc": "亲切悦耳，青春阳光、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moyuji_meet_24k.jpeg",
+				"vid": "moyuji_meet_24k"
+			},
+			{
+				"name": "魔晓芸",
+				"desc": "温柔知性，温婉大方、直播|助理",
+				"img": "https://res.lang123.top/res/img/moxiaoyun_meet_24k.jpeg",
+				"vid": "moxiaoyun_meet_24k"
+			},
+			{
+				"name": "魔丽萍",
+				"desc": "成熟知性，稳重自然、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/moliping_meet_24k.jpeg",
+				"vid": "moliping_meet_24k"
+			},
+			{
+				"name": "魔志远",
+				"desc": "磁性浑厚，爽朗动听 ",
+				"img": "https://res.lang123.top/res/img/mozhiyuan_meet_24k.jpeg",
+				"vid": "mozhiyuan_meet_24k"
+			},
+			{
+				"name": "魔绫英",
+				"desc": "亲切温和，自然流畅 、影视|情感",
+				"img": "https://res.lang123.top/res/img/molingying_meet_24k.png",
+				"vid": "molingying_meet_24k"
+			},
+			{
+				"name": "魔老冯",
+				"desc": "专业评书，婉转沧桑、影视",
+				"img": "https://res.lang123.top/res/img/molaofeng_meet_24k.jpeg",
+				"vid": "molaofeng_meet_24k"
+			},
+			{
+				"name": "魔百灵",
+				"desc": "灵动悦耳，自然动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/mobailing_meet_24k.png",
+				"vid": "mobailing_meet_24k"
+			},
+			{
+				"name": "魔萧瑟",
+				"desc": "磁性醇厚，朗朗动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moxiaose_meet_24k.jpeg",
+				"vid": "moxiaose_meet_24k"
+			},
+			{
+				"name": "魔小奇",
+				"desc": "青春阳光，活力四射、广告|游戏",
+				"img": "https://res.lang123.top/res/img/moxiaoqim_meet_24k.png",
+				"vid": "moxiaoqim_meet_24k"
+			},
+			{
+				"name": "魔诡叔",
+				"desc": "冷静诡异，真实自然、影视|动漫",
+				"img": "https://res.lang123.top/res/img/moguishu_meet_24k.png",
+				"vid": "moguishu_meet_24k"
+			},
+			{
+				"name": "魔美哆",
+				"desc": "可爱萌娃，清脆欢快、动漫",
+				"img": "https://res.lang123.top/res/img/momeiduo_meet_24k.jpeg",
+				"vid": "momeiduo_meet_24k"
+			},
+			{
+				"name": "魔大星",
+				"desc": "真实自然，朗朗动听、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/modaxing_meet_24k.jpeg",
+				"vid": "modaxing_meet_24k"
+			},
+			{
+				"name": "魔雨杉",
+				"desc": "温柔甜美，自然动听、助理",
+				"img": "https://res.lang123.top/res/img/moyuqingt1_meet_24k.jpeg",
+				"vid": "moyuqingt1_meet_24k"
+			},
+			{
+				"name": "魔霓虹",
+				"desc": "成熟温柔，悦耳动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/monihong_meet_24k.png",
+				"vid": "monihong_meet_24k"
+			},
+			{
+				"name": "魔宋逸",
+				"desc": "磁性浑厚，自然动听 、影视|情感",
+				"img": "https://res.lang123.top/res/img/mosongyi_meet_24k.jpeg",
+				"vid": "mosongyi_meet_24k"
+			},
+			{
+				"name": "魔潇",
+				"desc": "磁性浑厚，爽朗动听 、纪录片|宣传片",
+				"img": "https://res.lang123.top/res/img/moxiao_meet_24k.jpeg",
+				"vid": "moxiao_meet_24k"
+			},
+			{
+				"name": "魔东坡",
+				"desc": "磁性浑厚，朗朗动听、美食|有声书",
+				"img": "https://res.lang123.top/res/img/modongpo_meet_24k.jpeg",
+				"vid": "modongpo_meet_24k"
+			},
+			{
+				"name": "魔惊堂",
+				"desc": "专业评书，婉转沧桑、影视",
+				"img": "https://res.lang123.top/res/img/mojingtang_meet_24k.png",
+				"vid": "mojingtang_meet_24k"
+			},
+			{
+				"name": "魔小顽",
+				"desc": "可爱男孩，自然动听、情感|游戏",
+				"img": "https://res.lang123.top/res/img/moxiaowan_meet_24k.jpeg",
+				"vid": "moxiaowan_meet_24k"
+			},
+			{
+				"name": "魔小巧",
+				"desc": "甜美可爱，稚嫩天真、游戏|动漫",
+				"img": "https://res.lang123.top/res/img/moxiaoqiaonv_meet_24k.jpeg",
+				"vid": "moxiaoqiaonv_meet_24k"
+			},
+			{
+				"name": "魔泰龙",
+				"desc": "洪亮浑厚，朗朗动听、影视|游戏",
+				"img": "https://res.lang123.top/res/img/motailong_meet_24k.jpeg",
+				"vid": "motailong_meet_24k"
+			},
+			{
+				"name": "魔欣怡",
+				"desc": "成熟温柔，悦耳动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/moxinyi_meet_24k.png",
+				"vid": "moxinyi_meet_24k"
+			},
+			{
+				"name": "魔灵姬",
+				"desc": "冷静诡异，自然动听、影视|动漫",
+				"img": "https://res.lang123.top/res/img/molingji_meet_24k.jpeg",
+				"vid": "molingji_meet_24k"
+			},
+			{
+				"name": "魔小笛",
+				"desc": "可爱男孩，自然动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/moxiaodi_meet_24k.png",
+				"vid": "moxiaodi_meet_24k"
+			},
+			{
+				"name": "魔天启",
+				"desc": "成熟浑厚，朗朗动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/motianqi_meet_24k.jpeg",
+				"vid": "motianqi_meet_24k"
+			},
+			{
+				"name": "魔小乔",
+				"desc": "幽默诙谐，亲切甜美、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/moxiaoqiao_meet_24k.jpeg",
+				"vid": "moxiaoqiao_meet_24k"
+			},
+			{
+				"name": "魔雨凝",
+				"desc": "甜美稳重，自然动听、纪录片|宣传片",
+				"img": "https://res.lang123.top/res/img/moyuning_meet_24k.jpeg",
+				"vid": "moyuning_meet_24k"
+			},
+			{
+				"name": "魔温雅",
+				"desc": "成熟知性，悦耳动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mowenya_meet_24k.png",
+				"vid": "mowenya_meet_24k"
+			},
+			{
+				"name": "魔稼轩",
+				"desc": "亲切温和，自然流畅、资讯|有声书",
+				"img": "https://res.lang123.top/res/img/mojiaxuan_meet_24k.jpeg",
+				"vid": "mojiaxuan_meet_24k"
+			},
+			{
+				"name": "魔依梦",
+				"desc": "温柔甜美，自然动听、直播|助理",
+				"img": "https://res.lang123.top/res/img/moyimeng_meet_24k.jpeg",
+				"vid": "moyimeng_meet_24k"
+			},
+			{
+				"name": "魔宋霖",
+				"desc": "磁性浑厚，爽朗动听 、影视|广告",
+				"img": "https://res.lang123.top/res/img/mosonglin_meet_24k.jpeg",
+				"vid": "mosonglin_meet_24k"
+			},
+			{
+				"name": "兰馨",
+				"desc": "亲切温和，自然流畅、影视|情感",
+				"img": "https://res.lang123.top/res/img/lanxin_meet_24k.png",
+				"vid": "lanxin_meet_24k"
+			},
+			{
+				"name": "魔玄天",
+				"desc": "特色京腔，自然动听、资讯|游戏",
+				"img": "https://res.lang123.top/res/img/moxuantian_meet_24k.png",
+				"vid": "moxuantian_meet_24k"
+			},
+			{
+				"name": "魔远桥",
+				"desc": "阳光帅气，爽朗动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/moyuanqiao_meet_24k.jpeg",
+				"vid": "moyuanqiao_meet_24k"
+			},
+			{
+				"name": "魔岩刚",
+				"desc": "专业播音，字正腔圆、资讯|情感",
+				"img": "https://res.lang123.top/res/img/moyangang_meet_24k.jpeg",
+				"vid": "moyangang_meet_24k"
+			},
+			{
+				"name": "魔樱桃",
+				"desc": "可爱萝莉，自然动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/moyingtao_meet_24k.jpg",
+				"vid": "moyingtao_meet_24k"
+			},
+			{
+				"name": "魔小洛",
+				"desc": "稚嫩可爱，童真无邪、游戏|动漫",
+				"img": "https://res.lang123.top/res/img/moxiaolo_meet_24k.png",
+				"vid": "moxiaolo_meet_24k"
+			},
+			{
+				"name": "魔胤禛",
+				"desc": "磁性浑厚，爽朗动听、朗诵|游戏",
+				"img": "https://res.lang123.top/res/img/moyinzhen_meet_24k.png",
+				"vid": "moyinzhen_meet_24k"
+			},
+			{
+				"name": "魔语嫣",
+				"desc": "磁性甜美，轻快美妙、资讯|游戏",
+				"img": "https://res.lang123.top/res/img/emily_meet_24k.png",
+				"vid": "emily_meet_24k"
+			},
+			{
+				"name": "魔邪",
+				"desc": "磁性温和，自然动听、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/moxie_meet_24k.jpeg",
+				"vid": "moxie_meet_24k"
+			},
+			{
+				"name": "小依",
+				"desc": "温柔柔软，清新甜美、影视|情感",
+				"img": "https://res.lang123.top/res/img/F110_meet_24k.png",
+				"vid": "F110_meet_24k"
+			},
+			{
+				"name": "魔诗琪",
+				"desc": "温柔甜美，自然动听、情感|有声书",
+				"img": "https://res.lang123.top/res/img/moshiqi_meet_24k.jpeg",
+				"vid": "moshiqi_meet_24k"
+			},
+			{
+				"name": "魔小暖",
+				"desc": "成熟知性，自然流畅、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moxiaonuan_meet_24k.jpeg",
+				"vid": "moxiaonuan_meet_24k"
+			},
+			{
+				"name": "魔小虎",
+				"desc": "可爱清新，清脆欢快、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/xiaohu_meet_24k.png",
+				"vid": "xiaohu_meet_24k"
+			},
+			{
+				"name": "魔灵兰",
+				"desc": "自然流畅，朗朗动听、助理",
+				"img": "https://res.lang123.top/res/img/molinglanv1_meet_24k.jpeg",
+				"vid": "molinglanv1_meet_24k"
+			},
+			{
+				"name": "魔书凡",
+				"desc": "自然流畅，朗朗动听、直播|助理",
+				"img": "https://res.lang123.top/res/img/moshufan_meet_24k.jpeg",
+				"vid": "moshufan_meet_24k"
+			},
+			{
+				"name": "魔苏媚",
+				"desc": "魅惑妲己，勾魂摄魄、资讯|娱乐",
+				"img": "https://res.lang123.top/res/img/mosumei_meet_24k.png",
+				"vid": "mosumei_meet_24k"
+			},
+			{
+				"name": "魔志颖",
+				"desc": "磁性温暖，真实自然、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mozhiying_meet_24k.png",
+				"vid": "mozhiying_meet_24k"
+			},
+			{
+				"name": "小爽",
+				"desc": "成熟知性，悦耳动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/xiaoshuang_meet_24k.png",
+				"vid": "xiaoshuang_meet_24k"
+			},
+			{
+				"name": "魔罗莉",
+				"desc": "可爱清新，清脆欢快、影视|游戏",
+				"img": "https://res.lang123.top/res/img/moluoli_meet_24k.jpeg",
+				"vid": "moluoli_meet_24k"
+			},
+			{
+				"name": "魔小麦",
+				"desc": "磁性浑厚，爽朗动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moxiaomai_meet_24k.jpeg",
+				"vid": "moxiaomai_meet_24k"
+			},
+			{
+				"name": "魔孔明",
+				"desc": "娓娓道来，朗朗动听、朗诵|游戏",
+				"img": "https://res.lang123.top/res/img/mokongming_meet_24k.png",
+				"vid": "mokongming_meet_24k"
+			},
+			{
+				"name": "魔天真",
+				"desc": "可爱羊羊，自然动听、游戏|动漫",
+				"img": "https://res.lang123.top/res/img/motianzhen_meet_24k.png",
+				"vid": "motianzhen_meet_24k"
+			},
+			{
+				"name": "魔弘毅",
+				"desc": "磁性浑厚，朗朗动听、美食|资讯",
+				"img": "https://res.lang123.top/res/img/mohongyi_meet_24k.png",
+				"vid": "mohongyi_meet_24k"
+			},
+			{
+				"name": "魔暖冬",
+				"desc": "元气少女，自然流畅、资讯|影视",
+				"img": "https://res.lang123.top/res/img/monuandong_meet_24k.jpeg",
+				"vid": "monuandong_meet_24k"
+			},
+			{
+				"name": "魔貂哥",
+				"desc": "专业评书，自然动听、影视",
+				"img": "https://res.lang123.top/res/img/modiaoge_meet_24k.png",
+				"vid": "modiaoge_meet_24k"
+			},
+			{
+				"name": "魔太君",
+				"desc": "幽默诙谐，趣味十足、娱乐|动漫",
+				"img": "https://res.lang123.top/res/img/motaijun_meet_24k.jpeg",
+				"vid": "motaijun_meet_24k"
+			},
+			{
+				"name": "魔子画",
+				"desc": "青春阳光，热情欢快、资讯|影视",
+				"img": "https://res.lang123.top/res/img/M109_meet_24k.jpeg",
+				"vid": "M109_meet_24k"
+			},
+			{
+				"name": "魔一丹",
+				"desc": "成熟温柔，自然耐听",
+				"img": "https://res.lang123.top/res/img/moyidan_meet_24k.jpeg",
+				"vid": "moyidan_meet_24k"
+			},
+			{
+				"name": "魔钟灵",
+				"desc": "青春少女，可爱甜美、资讯|情感",
+				"img": "https://res.lang123.top/res/img/mozhongling_meet_24k.jpeg",
+				"vid": "mozhongling_meet_24k"
+			},
+			{
+				"name": "魔翠山",
+				"desc": "成熟浑厚，朗朗动听、影视|动漫",
+				"img": "https://res.lang123.top/res/img/mocuishan_meet_24k.jpeg",
+				"vid": "mocuishan_meet_24k"
+			},
+			{
+				"name": "魔正男",
+				"desc": "可爱男孩，自然动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/mozhengnan_meet_24k.jpeg",
+				"vid": "mozhengnan_meet_24k"
+			},
+			{
+				"name": "魔羽霞",
+				"desc": "美妙悦耳，清脆欢快、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moyuxia_meet_24k.png",
+				"vid": "moyuxia_meet_24k"
+			},
+			{
+				"name": "魔小环",
+				"desc": "可爱清新，清脆欢快",
+				"img": "https://res.lang123.top/res/img/linger_meet_24k.png",
+				"vid": "linger_meet_24k"
+			},
+			{
+				"name": "魔叔同",
+				"desc": "成熟浑厚，朗朗动听、美食|影视",
+				"img": "https://res.lang123.top/res/img/moshutong_meet_24k.jpeg",
+				"vid": "moshutong_meet_24k"
+			},
+			{
+				"name": "魔小灵",
+				"desc": "可爱清新，清脆欢快、资讯|游戏",
+				"img": "https://res.lang123.top/res/img/lucy_meet_24k.png",
+				"vid": "lucy_meet_24k"
+			},
+			{
+				"name": "魔杨逍",
+				"desc": "吊儿郎当，轻快自然、体育|影视",
+				"img": "https://res.lang123.top/res/img/wuhan037_meet_24k.jpeg",
+				"vid": "wuhan037_meet_24k"
+			},
+			{
+				"name": "魔小禅",
+				"desc": "可爱清新，清脆欢快、情感|游戏",
+				"img": "https://res.lang123.top/res/img/moxiaochan_meet_24k.png",
+				"vid": "moxiaochan_meet_24k"
+			},
+			{
+				"name": "魔盈盈",
+				"desc": "成熟知性，悦耳动听、影视|动漫",
+				"img": "https://res.lang123.top/res/img/moyingying_meet_24k.png",
+				"vid": "moyingying_meet_24k"
+			},
+			{
+				"name": "魔婉灵",
+				"desc": "成熟知性，温婉大方 、影视|情感",
+				"img": "https://res.lang123.top/res/img/mowanling_meet_24k.png",
+				"vid": "mowanling_meet_24k"
+			},
+			{
+				"name": "魔黎馨",
+				"desc": "成熟知性，温婉大方 、影视",
+				"img": "https://res.lang123.top/res/img/molixin_meet_24k.png",
+				"vid": "molixin_meet_24k"
+			},
+			{
+				"name": "魔清照",
+				"desc": "成熟知性，悦耳动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moqingzhao_meet_24k.jpeg",
+				"vid": "moqingzhao_meet_24k"
+			},
+			{
+				"name": "魔佩奇",
+				"desc": "可爱清新，清脆欢快、影视|游戏",
+				"img": "https://res.lang123.top/res/img/mopeiqi_meet_24k.jpeg",
+				"vid": "mopeiqi_meet_24k"
+			},
+			{
+				"name": "魔少辛",
+				"desc": "真实自然，朗朗动听 、影视",
+				"img": "https://res.lang123.top/res/img/moshaoxin_meet_24k.jpeg",
+				"vid": "moshaoxin_meet_24k"
+			},
+			{
+				"name": "魔修远",
+				"desc": "激情男声，活力四射、娱乐|游戏",
+				"img": "https://res.lang123.top/res/img/moxiuyuan_meet_24k.jpeg",
+				"vid": "moxiuyuan_meet_24k"
+			},
+			{
+				"name": "魔润玉",
+				"desc": "磁性浑厚，爽朗动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/morunyu_meet_24k.png",
+				"vid": "morunyu_meet_24k"
+			},
+			{
+				"name": "魔宇皓",
+				"desc": "真实自然，朗朗动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moyuhao_meet_24k.png",
+				"vid": "moyuhao_meet_24k"
+			},
+			{
+				"name": "魔诡哥",
+				"desc": "冷静诡异，自然动听、影视",
+				"img": "https://res.lang123.top/res/img/moguige_meet_24k.jpeg",
+				"vid": "moguige_meet_24k"
+			},
+			{
+				"name": "魔小易",
+				"desc": "可爱男孩，自然动听、影视|游戏",
+				"img": "https://res.lang123.top/res/img/moxiaoyi_meet_24k.png",
+				"vid": "moxiaoyi_meet_24k"
+			},
+			{
+				"name": "魔伯通",
+				"desc": "磁性浑厚，朗朗动听、影视|动漫",
+				"img": "https://res.lang123.top/res/img/mobotong_meet_24k.jpeg",
+				"vid": "mobotong_meet_24k"
+			},
+			{
+				"name": "魔英俊",
+				"desc": "磁性浑厚，爽朗动听、资讯",
+				"img": "https://res.lang123.top/res/img/moyingjun_meet_24k.jpeg",
+				"vid": "moyingjun_meet_24k"
+			},
+			{
+				"name": "小蔓莎",
+				"desc": "温柔甜美，温暖治愈、资讯|影视",
+				"img": "https://res.lang123.top/res/img/xiaomansha_meet_24k.jpeg",
+				"vid": "xiaomansha_meet_24k"
+			},
+			{
+				"name": "魔凌华",
+				"desc": "温婉大气，自然动听、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/molinghua_meet_24k.jpeg",
+				"vid": "molinghua_meet_24k"
+			},
+			{
+				"name": "魔怼怼",
+				"desc": "怼人御姐，真实自然、娱乐|影视",
+				"img": "https://res.lang123.top/res/img/moduidui_meet_24k.png",
+				"vid": "moduidui_meet_24k"
+			},
+			{
+				"name": "魔岳峰",
+				"desc": "磁性浑厚，自然动听、影视",
+				"img": "https://res.lang123.top/res/img/moyuefeng_meet_24k.png",
+				"vid": "moyuefeng_meet_24k"
+			},
+			{
+				"name": "老禅师",
+				"desc": "和蔼沧桑，温和自然、影视|情感",
+				"img": "https://res.lang123.top/res/img/mowukong_meet_24k.png",
+				"vid": "mowukong_meet_24k"
+			},
+			{
+				"name": "魔望舒",
+				"desc": "磁性悦耳，爽朗动听、情感|有声书",
+				"img": "https://res.lang123.top/res/img/mowangshu_meet_24k.png",
+				"vid": "mowangshu_meet_24k"
+			},
+			{
+				"name": "魔奇松",
+				"desc": "真实自然，朗朗动听 、体育|影视",
+				"img": "https://res.lang123.top/res/img/moqisong_meet_24k.png",
+				"vid": "moqisong_meet_24k"
+			},
+			{
+				"name": "小妍",
+				"desc": "亲切温和，自然流畅、影视|情感",
+				"img": "https://res.lang123.top/res/img/xiaoyan_meet_24k.png",
+				"vid": "xiaoyan_meet_24k"
+			},
+			{
+				"name": "魔沉香",
+				"desc": "真实自然，朗朗动听、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/mochenxiang_meet_24k.png",
+				"vid": "mochenxiang_meet_24k"
+			},
+			{
+				"name": "妙妙",
+				"desc": "亲切温和，自然流畅、影视|情感",
+				"img": "https://res.lang123.top/res/img/miaomiao_meet_24k.png",
+				"vid": "miaomiao_meet_24k"
+			},
+			{
+				"name": "阿柔",
+				"desc": "亲切温和，自然流畅、美食|资讯",
+				"img": "https://res.lang123.top/res/img/arou_meet_24k.png",
+				"vid": "arou_meet_24k"
+			},
+			{
+				"name": "魔婉儿",
+				"desc": "成熟知性，温婉大方、资讯|有声书",
+				"img": "https://res.lang123.top/res/img/mowaner_meet_24k.png",
+				"vid": "mowaner_meet_24k"
+			},
+			{
+				"name": "薇薇",
+				"desc": "亲切温和，自然流畅、影视|情感",
+				"img": "https://res.lang123.top/res/img/weiwei_meet_24k.png",
+				"vid": "weiwei_meet_24k"
+			},
+			{
+				"name": "魔龚叔",
+				"desc": "磁性浑厚，爽朗动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mogongshu_meet_24k.png",
+				"vid": "mogongshu_meet_24k"
+			},
+			{
+				"name": "伯光",
+				"desc": "成熟浑厚，朗朗动听、影视|动漫",
+				"img": "https://res.lang123.top/res/img/boguang_meet_24k.jpg",
+				"vid": "boguang_meet_24k"
+			},
+			{
+				"name": "魔如玥",
+				"desc": "温柔甜美，自然动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moruyue_meet_24k.jpeg",
+				"vid": "moruyue_meet_24k"
+			},
+			{
+				"name": "魔紫英",
+				"desc": "磁性浑厚，自然动听、影视|纪录片",
+				"img": "https://res.lang123.top/res/img/moziying_meet_24k.png",
+				"vid": "moziying_meet_24k"
+			},
+			{
+				"name": "魔晓玲",
+				"desc": "成熟知性，温婉大方 、影视|情感",
+				"img": "https://res.lang123.top/res/img/moxiaoling_meet_24k.png",
+				"vid": "moxiaoling_meet_24k"
+			},
+			{
+				"name": "魔非凡",
+				"desc": "真实自然，朗朗动听 、影视|情感",
+				"img": "https://res.lang123.top/res/img/mofeifan_meet_24k.png",
+				"vid": "mofeifan_meet_24k"
+			},
+			{
+				"name": "魔玄霄",
+				"desc": "真实自然，朗朗动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moxuanxiao_meet_24k.png",
+				"vid": "moxuanxiao_meet_24k"
+			},
+			{
+				"name": "魔昊天",
+				"desc": "阳光帅气，爽朗动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mohaotian_meet_24k.png",
+				"vid": "mohaotian_meet_24k"
+			},
+			{
+				"name": "魔文姬",
+				"desc": "元气少女，乖甜可爱 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mowenji_meet_24k.png",
+				"vid": "mowenji_meet_24k"
+			},
+			{
+				"name": "阿雅",
+				"desc": "亲切温和，自然流畅、资讯|影视",
+				"img": "https://res.lang123.top/res/img/aya_meet_24k.png",
+				"vid": "aya_meet_24k"
+			},
+			{
+				"name": "魔青霞",
+				"desc": "成熟知性，温婉大方 、广告",
+				"img": "https://res.lang123.top/res/img/moqingxia_meet_24k.jpeg",
+				"vid": "moqingxia_meet_24k"
+			},
+			{
+				"name": "魔司棋",
+				"desc": "成熟知性，流畅自然、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mosiqi_meet_24k.png",
+				"vid": "mosiqi_meet_24k"
+			},
+			{
+				"name": "魔文殊",
+				"desc": "磁性浑厚，爽朗动听、影视",
+				"img": "https://res.lang123.top/res/img/mowenshu_meet_24k.png",
+				"vid": "mowenshu_meet_24k"
+			},
+			{
+				"name": "魔雪梅",
+				"desc": "成熟温柔，悦耳动听、影视|有声书",
+				"img": "https://res.lang123.top/res/img/moxuemei_meet_24k.png",
+				"vid": "moxuemei_meet_24k"
+			},
+			{
+				"name": "魔诸葛",
+				"desc": "磁性浑厚，自然动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mozhuge_meet_24k.png",
+				"vid": "mozhuge_meet_24k"
+			},
+			{
+				"name": "阿墨",
+				"desc": "成熟老练，朗朗动听、美食",
+				"img": "https://res.lang123.top/res/img/amo_meet_24k.png",
+				"vid": "amo_meet_24k"
+			},
+			{
+				"name": "阿娇",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/ajiao_meet_24k.png",
+				"vid": "ajiao_meet_24k"
+			},
+			{
+				"name": "魔梦妍",
+				"desc": "温柔知性，温婉大方、情感",
+				"img": "https://res.lang123.top/res/img/momengyan_meet_24k.jpeg",
+				"vid": "momengyan_meet_24k"
+			},
+			{
+				"name": "魔梅萱",
+				"desc": "可爱清新，清脆欢快、影视|情感",
+				"img": "https://res.lang123.top/res/img/momeixuan_meet_24k.png",
+				"vid": "momeixuan_meet_24k"
+			},
+			{
+				"name": "魔凌峰",
+				"desc": "磁性浑厚，爽朗动听、影视|情感",
+				"img": "https://res.lang123.top/res/img/molingfeng_meet_24k.png",
+				"vid": "molingfeng_meet_24k"
+			},
+			{
+				"name": "魔千川",
+				"desc": "磁性浑厚，朗朗动听 、影视",
+				"img": "https://res.lang123.top/res/img/moqianchuan_meet_24k.png",
+				"vid": "moqianchuan_meet_24k"
+			},
+			{
+				"name": "魔晓萱",
+				"desc": "温柔柔软，纯净轻快、资讯|影视",
+				"img": "https://res.lang123.top/res/img/lin_meet_24k.png",
+				"vid": "lin_meet_24k"
+			},
+			{
+				"name": "魔凌冰",
+				"desc": "成熟温柔，悦耳动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/molingbing_meet_24k.png",
+				"vid": "molingbing_meet_24k"
+			},
+			{
+				"name": "魔灵儿",
+				"desc": "节奏明快，自然动听、直播",
+				"img": "https://res.lang123.top/res/img/chuyaping_meet_24k.png",
+				"vid": "chuyaping_meet_24k"
+			},
+			{
+				"name": "英琼",
+				"desc": "亲切温和，自然流畅、资讯",
+				"img": "https://res.lang123.top/res/img/yingqiong_meet_24k.png",
+				"vid": "yingqiong_meet_24k"
+			},
+			{
+				"name": "庄儿",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/zhuanger_meet_24k.png",
+				"vid": "zhuanger_meet_24k"
+			},
+			{
+				"name": "魔凝香",
+				"desc": "成熟温柔，悦耳动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/moningxiang_meet_24k.png",
+				"vid": "moningxiang_meet_24k"
+			},
+			{
+				"name": "春春",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/chunchun_meet_24k.png",
+				"vid": "chunchun_meet_24k"
+			},
+			{
+				"name": "魔南帝",
+				"desc": "磁性浑厚，爽朗动听、影视",
+				"img": "https://res.lang123.top/res/img/monandi_meet_24k.png",
+				"vid": "monandi_meet_24k"
+			},
+			{
+				"name": "丽丽",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/lili_meet_24k.png",
+				"vid": "lili_meet_24k"
+			},
+			{
+				"name": "魔家欣",
+				"desc": "真实自然，朗朗动听、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mojiaxin_meet_24k.png",
+				"vid": "mojiaxin_meet_24k"
+			},
+			{
+				"name": "九尾狐",
+				"desc": "魅惑妲己，娇软动听、影视|游戏",
+				"img": "https://res.lang123.top/res/img/jiuweihu_meet_24k.png",
+				"vid": "jiuweihu_meet_24k"
+			},
+			{
+				"name": "淑君",
+				"desc": "亲切温和，自然流畅、情感",
+				"img": "https://res.lang123.top/res/img/shujun_meet_24k.png",
+				"vid": "shujun_meet_24k"
+			},
+			{
+				"name": "魔舞桐",
+				"desc": "元气少女，悦耳动听 、资讯|影视",
+				"img": "https://res.lang123.top/res/img/mowutong_meet_24k.jpeg",
+				"vid": "mowutong_meet_24k"
+			},
+			{
+				"name": "魔小逗",
+				"desc": "搞笑夹子，沙雕谐趣、娱乐|游戏",
+				"img": "https://res.lang123.top/res/img/moxiaodou_meet_24k.png",
+				"vid": "moxiaodou_meet_24k"
+			},
+			{
+				"name": "魔嫣然",
+				"desc": "亲切温和，自然流畅、资讯|游戏",
+				"img": "https://res.lang123.top/res/img/qiqi_meet_24k.png",
+				"vid": "qiqi_meet_24k"
+			},
+			{
+				"name": "魔华安",
+				"desc": "磁性浑厚，自然动听 、影视",
+				"img": "https://res.lang123.top/res/img/mohuaan_meet_24k.png",
+				"vid": "mohuaan_meet_24k"
+			},
+			{
+				"name": "玲玲",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/lingling_meet_24k.png",
+				"vid": "lingling_meet_24k"
+			},
+			{
+				"name": "玟玟",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/wenwen_meet_24k.png",
+				"vid": "wenwen_meet_24k"
+			},
+			{
+				"name": "魔茉莉",
+				"desc": "元气少女，自然动听、影视",
+				"img": "https://res.lang123.top/res/img/momoli_meet_24k.png",
+				"vid": "momoli_meet_24k"
+			},
+			{
+				"name": "玉儿",
+				"desc": "成熟知性，自然流畅、资讯|游戏",
+				"img": "https://res.lang123.top/res/img/yuer_meet_24k.png",
+				"vid": "yuer_meet_24k"
+			},
+			{
+				"name": "阿岚",
+				"desc": "亲切温和，自然流畅、资讯|情感",
+				"img": "https://res.lang123.top/res/img/alan_meet_24k.png",
+				"vid": "alan_meet_24k"
+			},
+			{
+				"name": "慧儿",
+				"desc": "亲切温和，自然流畅、资讯",
+				"img": "https://res.lang123.top/res/img/huier_meet_24k.png",
+				"vid": "huier_meet_24k"
+			},
+			{
+				"name": "小娜",
+				"desc": "自然淳朴、资讯|情感",
+				"img": "https://res.lang123.top/res/img/cissy_meet_24k.png",
+				"vid": "cissy_meet_24k"
+			},
+			{
+				"name": "旭成",
+				"desc": "剪映同款、热门特色方言、广西表哥、官方授权",
+				"img": "https://res.lang123.top/res/img/BV213_streaming.png",
+				"vid": "BV213_streaming"
+			},
+			{
+				"name": "旭昊",
+				"desc": "剪映同款、热门特色方言、东北老铁、官方授权",
+				"img": "https://res.lang123.top/res/img/BV021_streaming.png",
+				"vid": "BV021_streaming"
+			},
+			{
+				"name": "旭庆",
+				"desc": "剪映同款、热门特色方言、重庆小伙、官方授权",
+				"img": "https://res.lang123.top/res/img/BV019_streaming.png",
+				"vid": "BV019_streaming"
+			},
+			{
+				"name": "云翔",
+				"desc": "山东话、宣传、解说男声",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-shandong-YunxiangNeural.png",
+				"vid": "azure_zh-CN-shandong-YunxiangNeural"
+			},
+			{
+				"name": "云登",
+				"desc": "河南话、广告、宣传男声",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-henan-YundengNeural.png",
+				"vid": "azure_zh-CN-henan-YundengNeural"
+			},
+			{
+				"name": "云熙",
+				"desc": "四川话、宣传、解说男声",
+				"img": "https://res.lang123.top/res/img/azure_zh-CN-sichuan-YunxiNeural.png",
+				"vid": "azure_zh-CN-sichuan-YunxiNeural"
+			},
+			{
+				"name": "晓彤",
+				"desc": "上海话、阅读、解说温柔女声",
+				"img": "https://res.lang123.top/res/img/azure_wuu-CN-XiaotongNeural.png",
+				"vid": "azure_wuu-CN-XiaotongNeural"
+			},
+			{
+				"name": "云喆",
+				"desc": "上海话、广告、解说男声",
+				"img": "https://res.lang123.top/res/img/azure_wuu-CN-YunzheNeural.png",
+				"vid": "azure_wuu-CN-YunzheNeural"
+			},
+			{
+				"name": "晓敏",
+				"desc": "粤语年轻女声、宣传、广告、客服",
+				"img": "https://res.lang123.top/res/img/azure_yue-CN-XiaoMinNeural.png",
+				"vid": "azure_yue-CN-XiaoMinNeural"
+			},
+			{
+				"name": "云松",
+				"desc": "粤语、宣传、广告男声",
+				"img": "https://res.lang123.top/res/img/azure_yue-CN-YunSongNeural.jpg",
+				"vid": "azure_yue-CN-YunSongNeural"
+			}
+		]
+	},
     "FV音色": {
         "token": "yes",
         "sort": "1",
