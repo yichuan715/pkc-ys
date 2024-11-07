@@ -43,7 +43,7 @@ if PKC_USER is None:
 if PKC_PASSWORD is None:
     PKC_PASSWORD = userConfig['users'][0]['password']
 if PKC_VERSION is None:
-    PKC_VERSION = 'v1.0.0'
+    PKC_VERSION = 'v1.0.1'
 if PKC_TITLE is None:
     PKC_TITLE = userConfig['标题']
 if PKC_MY is None:
